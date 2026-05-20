@@ -1,0 +1,1020 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+17000,,Madrid-ChamartÃ­n-Clara Campoamor,,40.4711789,-3.6829524,,,,,Europe/Madrid,1
+37606,,Badajoz,,38.890696,-6.981753,,,,,Europe/Madrid,1
+37603,,Montijo,,38.913539,-6.598577,,,,,Europe/Madrid,2
+37500,,MÃ©rida,,38.921503,-6.343794,,,,,Europe/Madrid,1
+35400,,CÃ¡ceres,,39.461131,-6.385679,,,,,Europe/Madrid,1
+30000,,MonfragÃ¼e,,39.937464,-6.10091,,,,,Europe/Madrid,2
+35206,,Navalmoral de la Mata,,39.894913,-5.545607,,,,,Europe/Madrid,2
+35203,,Oropesa de Toledo,,39.921746,-5.186137,,,,,Europe/Madrid,2
+35200,,Talavera de la Reina,,39.970674,-4.826512,,,,,Europe/Madrid,2
+35105,,Torrijos,,39.979003,-4.283037,,,,,Europe/Madrid,2
+18000,,Madrid-Atocha CercanÃ­as,,40.4066191,-3.6894391,,,,,Europe/Madrid,1
+35001,,LeganÃ©s,,40.328643,-3.7713161,,,,,Europe/Madrid,2
+30002,,Plasencia,,40.022282,-6.099397,,,,,Europe/Madrid,2
+56312,,AlmerÃ­a,,36.834951,-2.455519,,,,,Europe/Madrid,1
+56310,,Huercal-Viator,,36.885155,-2.436718,,,,,Europe/Madrid,2
+56200,,Guadix,,37.316873,-3.127209,,,,,Europe/Madrid,2
+56100,,Moreda,,37.431216,-3.310516,,,,,Europe/Madrid,2
+56009,,Cabra del Santo Cristo y AlicÃºn,,37.6567129,-3.262623,,,,,Europe/Madrid,2
+56004,,JÃ³dar-Ãbeda,,37.913343,-3.34892,,,,,Europe/Madrid,2
+50300,,Linares-Baeza,,38.068864,-3.589396,,,,,Europe/Madrid,1
+50207,,Vilches,,38.215742,-3.517576,,,,,Europe/Madrid,2
+60400,,AlcÃ¡zar de San Juan,,39.395628,-3.205744,,,,,Europe/Madrid,1
+11200,,Miranda de Ebro,,42.691024,-2.940366,,,,,Europe/Madrid,1
+13200,,Bilbao-Intermod. Abando Indalecio Prieto,,43.2601304,-2.9285592,,,,,Europe/Madrid,1
+13106,,Llodio,,43.1423514,-2.9606511,,,,,Europe/Madrid,2
+11511,,San SebastiÃ¡n-Donostia,,43.3176961,-1.9767172,,,,,Europe/Madrid,1
+11208,,Vitoria-Gasteiz,,42.841517,-2.672601,,,,,Europe/Madrid,1
+11300,,Altsasu,,42.894847,-2.181237,,,,,Europe/Madrid,2
+11400,,Zumarraga,,43.0870824,-2.3202298,,,,,Europe/Madrid,2
+22308,,Vigo-Guixar,,42.2392656,-8.7146089,,,,,Europe/Madrid,1
+94346,,Porto Campanha - O Porto CampaÃ±a,,41.1489,-8.58544,,,,,Europe/Lisbon,2
+94021,,Nine,,41.45534,-8.54513,,,,,Europe/Lisbon,2
+96122,,Barcelos,,41.53673,-8.60907,,,,,Europe/Lisbon,2
+94033,,Viana do Castelo,,41.69517,-8.83134,,,,,Europe/Lisbon,2
+22402,,ValenÃ§a do Minho,,42.024734,-8.639745,,,,,Europe/Lisbon,2
+71801,,Barcelona-Sants,,41.3798632,2.14101688,,,,,Europe/Madrid,1
+4104,,Camp de Tarragona,,41.192066,1.272666,,,,,Europe/Madrid,1
+78400,,Lleida-Pirineus,,41.62013,0.63365328,,,,,Europe/Madrid,1
+4040,,Zaragoza Delicias,,41.6586576,-0.9112693,,,,,Europe/Madrid,1
+81202,,Tudela de Navarra,,42.059434,-1.597931,,,,,Europe/Madrid,1
+81200,,CastejÃ³n de Ebro,,42.172719,-1.692114,,,,,Europe/Madrid,2
+81108,,Calahorra,,42.310458,-1.957755,,,,,Europe/Madrid,2
+81100,,LogroÃ±o,,42.457459,-2.442193,,,,,Europe/Madrid,1
+81002,,Haro,,42.583635,-2.849396,,,,,Europe/Madrid,2
+65000,,ValÃ¨ncia-EstaciÃ³ del Nord,,39.4669305,-0.3772239,,,,,Europe/Madrid,1
+65402,,L'Aldea-Amposta-Tortosa,,40.753564,0.61430923,,,,,Europe/Madrid,1
+65312,,VinarÃ²s,,40.471682,0.455727,,,,,Europe/Madrid,1
+65311,,BenicarlÃ³-PeÃ±Ã­scola,,40.427639,0.415217,,,,,Europe/Madrid,1
+65300,,CastellÃ³ de la Plana,,39.9884736,-0.0523456,,,,,Europe/Madrid,1
+80100,,Pamplona/IruÃ±a,,42.824877,-1.661419,,,,,Europe/Madrid,1
+80108,,Tafalla,,42.525756,-1.671467,,,,,Europe/Madrid,2
+20309,,Lugo,,43.015222,-7.552176,,,,,Europe/Madrid,1
+22100,,Ourense,,42.350389,-7.872777,,,,,Europe/Madrid,1
+20300,,Monforte de Lemos,,42.529682,-7.503589,,,,,Europe/Madrid,1
+20305,,Sarria,,42.784049,-7.418822,,,,,Europe/Madrid,2
+60000,,Madrid-Puerta de Atocha-Almudena Grandes,,40.406442,-3.690886,,,,,Europe/Madrid,1
+4007,,Guadalajara-Yebes,,40.587315,-3.124301,,,,,Europe/Madrid,1
+70600,,Calatayud,,41.346692,-1.63868,,,,,Europe/Madrid,1
+8223,,Vigo Urzaiz,,42.234189,-8.713728,,,,,Europe/Madrid,1
+11014,,Burgos-Rosa Manzano,,42.371197,-3.666308,,,,,Europe/Madrid,1
+14100,,Palencia,,42.015711,-4.534135,,,,,Europe/Madrid,1
+15100,,LeÃ³n,,42.596048,-5.582428,,,,,Europe/Madrid,1
+20100,,Astorga,,42.459489,-6.047212,,,,,Europe/Madrid,2
+20111,,Bembibre,,42.609558,-6.422048,,,,,Europe/Madrid,2
+20200,,Ponferrada,,42.545429,-6.602376,,,,,Europe/Madrid,1
+20211,,O Barco de Valdeorras,,42.418301,-6.98503,,,,,Europe/Madrid,2
+20213,,A RÃºa-PetÃ­n,,42.39276,-7.113284,,,,,Europe/Madrid,2
+20216,,San Clodio-Quiroga,,42.465271,-7.287198,,,,,Europe/Madrid,2
+31400,,Santiago de Compostela-Daniel Castelao,,42.870842,-8.544697,,,,,Europe/Madrid,1
+23008,,VilagarcÃ­a de Arousa,,42.602189,-8.762523,,,,,Europe/Madrid,1
+23004,,Pontevedra,,42.421969,-8.635546,,,,,Europe/Madrid,1
+30100,,Salamanca,,40.972235,-5.64899,,,,,Europe/Madrid,1
+10600,,Valladolid-Campo Grande,,41.642167,-4.726986,,,,,Europe/Madrid,1
+10500,,Medina del Campo,,41.317617,-4.909923,,,,,Europe/Madrid,1
+32002,,El Carpio,,41.215464,-5.114466,,,,,Europe/Madrid,2
+32003,,Fresno el Viejo,,41.191351,-5.138061,,,,,Europe/Madrid,2
+32004,,Cantalapiedra,,41.133585,-5.182961,,,,,Europe/Madrid,2
+10501,,Pozaldez,,41.36792,-4.836001,,,,,Europe/Madrid,2
+10502,,Matapozuelos,,41.422794,-4.801025,,,,,Europe/Madrid,2
+10503,,Valdestillas,,41.488729,-4.772937,,,,,Europe/Madrid,2
+10504,,Viana,,41.52407,-4.754489,,,,,Europe/Madrid,2
+50500,,CÃ³rdoba-Julio Anguita,,37.888291,-4.789453,,,,,Europe/Madrid,1
+65422,,Cambrils,,41.0815642,1.04603752,,,,,Europe/Madrid,2
+64100,,XÃ tiva,,38.992148,-0.5245402,,,,,Europe/Madrid,1
+60600,,Albacete-Los Llanos,,38.999384,-1.84845,,,,,Europe/Madrid,1
+60500,,Villarrobledo,,39.260868,-2.598621,,,,,Europe/Madrid,2
+60406,,SocuÃ©llamos,,39.278776,-2.775571,,,,,Europe/Madrid,2
+50100,,Manzanares,,39.005837,-3.370507,,,,,Europe/Madrid,2
+50102,,ValdepeÃ±as,,38.762868,-3.39572,,,,,Europe/Madrid,2
+81110,,Alfaro,,42.186525,-1.747985,,,,,Europe/Madrid,2
+81109,,RincÃ³n de Soto,,42.230011,-1.847473,,,,,Europe/Madrid,2
+60911,,Alicante/Alacant-Terminal,,38.3447127,-0.4955241,,,,,Europe/Madrid,1
+4307,,Figueres-Vilafant,,42.264771,2.943547,,,,,Europe/Madrid,1
+79300,,Girona,,41.9793629,2.81693689,,,,,Europe/Madrid,1
+65200,,Sagunt,,39.6758025,-0.271542,,,,,Europe/Madrid,1
+65304,,Orpesa,,40.092258,0.139861,,,,,Europe/Madrid,2
+71500,,Tarragona,,41.1115636,1.25322776,,,,,Europe/Madrid,1
+60905,,Elda-Petrer,,38.484879,-0.80109,,,,,Europe/Madrid,2
+60902,,Villena,,38.631738,-0.867689,,,,,Europe/Madrid,1
+65318,,BenicÃ ssim,,40.0579451,0.0577646,,,,,Europe/Madrid,2
+61307,,Cartagena,,37.604967,-0.975122,,,,,Europe/Madrid,1
+62103,,Elche/Elx-Parc,,38.2717809,-0.6952193,,,,,Europe/Madrid,2
+62002,,Orihuela-Miguel HernÃ¡ndez,,38.0779321,-0.944606,,,,,Europe/Madrid,2
+61304,,Torre-Pacheco,,37.746905,-0.967078,,,,,Europe/Madrid,2
+61200,,Murcia del Carmen,,37.9748243,-1.131508,,,,,Europe/Madrid,1
+61303,,Balsicas-Mar Menor,,37.81884,-0.950891,,,,,Europe/Madrid,2
+6006,,Lorca-Sutullena,,37.6721129,-1.6962305,,,,,Europe/Madrid,2
+6002,,Alhama de Murcia,,37.8494024,-1.4145141,,,,,Europe/Madrid,2
+6003,,Totana,,37.7635424,-1.4956153,,,,,Europe/Madrid,2
+51003,,Sevilla-Santa Justa,,37.3924955,-5.9749269,,,,,Europe/Madrid,1
+37200,,Ciudad Real,,38.9853,-3.913633,,,,,Europe/Madrid,1
+37300,,Puertollano,,38.69128,-4.111655,,,,,Europe/Madrid,1
+54413,,MÃ¡laga MarÃ­a Zambrano,,36.7113388,-4.4313888,,,,,Europe/Madrid,1
+37704,,Villanueva de CÃ³rdoba,,38.2554049,-4.570952,,,,,Europe/Madrid,2
+2002,,Puente Genil-Herrera,,37.3579,-4.821638,,,,,Europe/Madrid,1
+2003,,Antequera-Santa Ana,,37.069881,-4.719014,,,,,Europe/Madrid,1
+5000,,Granada,,37.184038,-3.609154,,,,,Europe/Madrid,1
+2030,,Antequera AV,,37.0334437,-4.5612901,,,,,Europe/Madrid,1
+5012,,Loja,,37.175372,-4.134841,,,,,Europe/Madrid,2
+51405,,CÃ¡diz,,36.528935,-6.2879716,,,,,Europe/Madrid,1
+51406,,San Fernando-BahÃ­a Sur,,36.4680834,-6.2067676,,,,,Europe/Madrid,1
+51400,,Puerto de Santa MarÃ­a,,36.6040723,-6.2179261,,,,,Europe/Madrid,1
+51300,,Jerez de la Frontera,,36.680022,-6.1266032,,,,,Europe/Madrid,1
+43019,,Huelva,,37.2525922,-6.9448154,,,,,Europe/Madrid,1
+43011,,La Palma del Condado,,37.390665,-6.554444,,,,,Europe/Madrid,1
+74200,,Huesca,,42.133594,-0.409745,,,,,Europe/Madrid,1
+78200,,Tardienta,,41.975716,-0.538223,,,,,Europe/Madrid,2
+3216,,ValÃ¨ncia-JoaquÃ­n Sorolla,,39.459051,-0.382923,,,,,Europe/Madrid,1
+3208,,Cuenca-Fernando ZÃ³bel,,40.035192,-2.14441,,,,,Europe/Madrid,1
+11500,,Tolosa,,43.1354472,-2.0790886,,,,,Europe/Madrid,2
+15410,,GijÃ³n-Sanz Crespo,,43.5377329,-5.6758089,,,,,Europe/Madrid,1
+15211,,Oviedo,,43.3663577,-5.854838,,,,,Europe/Madrid,1
+15122,,Pola de Lena,,43.15872,-5.8310263,,,,,Europe/Madrid,2
+14223,,Santander,,43.4583981,-3.8109529,,,,,Europe/Madrid,1
+3309,,Villena Alta Velocidad,,38.585302,-0.873295,,,,,Europe/Madrid,2
+8004,,Segovia-Guiomar,,40.910577,-4.094564,,,,,Europe/Madrid,1
+14114,,Aguilar de Campoo,,42.785362,-4.233899,,,,,Europe/Madrid,2
+14213,,Torrelavega,,43.3276776,-4.0426871,,,,,Europe/Madrid,2
+14202,,Reinosa,,42.9944991,-4.1409454,,,,,Europe/Madrid,2
+15203,,Mieres-Puente,,43.2500266,-5.7822622,,,,,Europe/Madrid,1
+11600,,Irun,,43.3395365,-1.8012519,,,,,Europe/Madrid,1
+20005,,Veguellina,,42.4335,-5.88756,,,,,Europe/Madrid,2
+20104,,BraÃ±uelas,,42.632631,-6.201002,,,,,Europe/Madrid,2
+16403,,AvilÃ©s,,43.561339,-5.9228329,,,,,Europe/Madrid,2
+8240,,Medina del Campo AV,,41.317459,-4.910071,,,,,Europe/Madrid,2
+30200,,Zamora,,41.515892,-5.739675,,,,,Europe/Madrid,1
+8247,,Sanabria AV,,42.0450532,-6.5631319,,,,,Europe/Madrid,2
+8251,,A GudiÃ±a-Porta de Galicia,,42.0635401,-7.1355604,,,,,Europe/Madrid,2
+31412,,A CoruÃ±a,,43.3496932,-8.4155629,,,,,Europe/Madrid,1
+20113,,San Miguel de las DueÃ±as,,42.586392,-6.523776,,,,,Europe/Madrid,2
+20109,,Torre del Bierzo,,42.595578,-6.329083,,,,,Europe/Madrid,2
+20102,,Vega-Magaz,,42.55376,-6.068267,,,,,Europe/Madrid,2
+3213,,Requena-Utiel,,39.519834,-1.127601,,,,,Europe/Madrid,1
+3410,,Elche/Elx AV,,38.24551,-0.76675,,,,,Europe/Madrid,2
+92102,,Toledo,,39.862272,-4.011244,,,,,Europe/Madrid,1
+3412,,Callosa de Segura-Cox,,38.1227708,-0.8745727,,,,,Europe/Madrid,2
+62001,,Beniel,,38.0448608,-0.9994759,,,,,Europe/Madrid,2
+99159,,Santiago-TurÃ­stico,,42.870842,-8.544697,,,,,Europe/Madrid,2
+31416,,Cerceda-Meirama,,43.2078791,-8.4467723,,,,,Europe/Madrid,2
+23021,,PadrÃ³n Barbanza,,42.738967,-8.652614,,,,,Europe/Madrid,2
+8224,,Redondela AV,,42.284509,-8.603573,,,,,Europe/Madrid,2
+23002,,Arcade,,42.340549,-8.611178,,,,,Europe/Madrid,2
+99161,,Pontevedra-TurÃ­stico,,42.421969,-8.635546,,,,,Europe/Madrid,1
+99143,,A CoruÃ±a-TurÃ­stico,,43.352761,-8.409755,,,,,Europe/Madrid,2
+55020,,Algeciras,,36.126831,-5.451108,,,,,Europe/Madrid,1
+55007,,Ronda,,36.748401,-5.16197,,,,,Europe/Madrid,1
+55018,,San Roque-La LÃ­nea,,36.214482,-5.432399,,,,,Europe/Madrid,2
+99117,,Ourense TurÃ­stico,,42.350389,-7.872777,,,,,Europe/Madrid,2
+87089,,Marseille St Charles,,43.30349,5.382236,,,,,Europe/Madrid,2
+87912,,Aix en Provence TGV,,43.455268,5.31723,,,,,Europe/Madrid,2
+87814,,Avignon TGV,,43.921938,4.785813,,,,,Europe/Madrid,2
+87302,,Nimes,,43.832291,4.365845,,,,,Europe/Madrid,2
+87173,,Montpellier Saint-Roch,,43.604852,3.880491,,,,,Europe/Madrid,2
+87088,,Narbonne,,43.190253,3.005716,,,,,Europe/Madrid,2
+87374,,Perpignan,,42.696421,2.880381,,,,,Europe/Madrid,2
+87303,,Lyon Part Dieu,,45.760281,4.859801,,,,,Europe/Madrid,2
+87810,,Valence TGV,,44.991545,4.978703,,,,,Europe/Madrid,2
+87067,,Valence Ville,,44.9278984,4.8930473,,,,,Europe/Madrid,2
+61015,,Archena-Fortuna,,38.13132,-1.236037,,,,,Europe/Madrid,2
+61012,,Cieza,,38.246609,-1.421702,,,,,Europe/Madrid,2
+61005,,HellÃ­n,,38.508776,-1.688437,,,,,Europe/Madrid,2
+10610,,Valladolid Universidad,,41.660257,-4.704037,,,,,Europe/Madrid,2
+10602,,CabezÃ³n del Pisuerga,,41.737276,-4.651294,,,,,Europe/Madrid,2
+10603,,Corcos-Aguilarejo,,41.766446,-4.623485,,,,,Europe/Madrid,2
+10604,,Cubillas de Santa Marta,,41.808861,-4.579754,,,,,Europe/Madrid,2
+10605,,DueÃ±as,,41.87048,-4.541216,,,,,Europe/Madrid,2
+11000,,Venta de BaÃ±os,,41.91736,-4.495844,,,,,Europe/Madrid,2
+15001,,Grijota,,42.049225,-4.583954,,,,,Europe/Madrid,2
+15003,,Becerril,,42.104706,-4.64712,,,,,Europe/Madrid,2
+15004,,Paredes de Nava,,42.150694,-4.697599,,,,,Europe/Madrid,2
+15007,,Villada,,42.245238,-4.970589,,,,,Europe/Madrid,2
+15008,,Grajal,,42.323246,-5.013381,,,,,Europe/Madrid,2
+15009,,SahagÃºn,,42.369329,-5.022667,,,,,Europe/Madrid,1
+15012,,El Burgo Ranero,,42.425753,-5.208592,,,,,Europe/Madrid,2
+15015,,Palanquinos,,42.460716,-5.497584,,,,,Europe/Madrid,2
+15106,,La Robla,,42.804454,-5.626255,,,,,Europe/Madrid,2
+15108,,La Pola de GordÃ³n,,42.854099,-5.674524,,,,,Europe/Madrid,2
+15109,,Santa LucÃ­a,,42.87515,-5.639613,,,,,Europe/Madrid,2
+15112,,VillamanÃ­n,,42.93671,-5.657637,,,,,Europe/Madrid,2
+15113,,Busdongo,,42.984495,-5.705391,,,,,Europe/Madrid,2
+15116,,Linares-Congostinas,,43.101743,-5.772162,,,,,Europe/Madrid,2
+15118,,Puente de los Fierros,,43.0715986,-5.769465,,,,,Europe/Madrid,2
+15120,,Campomanes,,43.1100681,-5.8164466,,,,,Europe/Madrid,2
+15200,,Ujo,,43.2046962,-5.7926422,,,,,Europe/Madrid,1
+15218,,Llamaquique,,43.3588282,-5.8573201,,,,,Europe/Madrid,1
+15401,,Calzada de Asturias,,43.5353848,-5.6971507,,,,,Europe/Madrid,2
+22300,,Redondela,,42.286005,-8.619402,,,,,Europe/Madrid,2
+23000,,Redondela-Picota,,42.286866,-8.607118,,,,,Europe/Madrid,2
+23009,,Catoira,,42.672166,-8.725291,,,,,Europe/Madrid,2
+23010,,Pontecesures,,42.722985,-8.65213,,,,,Europe/Madrid,2
+23011,,PadrÃ³n,,42.738967,-8.652614,,,,,Europe/Madrid,2
+31415,,Ordes,,43.037544,-8.448447,,,,,Europe/Madrid,2
+31411,,Uxes,,43.297374,-8.444404,,,,,Europe/Madrid,2
+23005,,Portela,,42.517801,-8.654609,,,,,Europe/Madrid,2
+23013,,Osebe,,42.825298,-8.61584,,,,,Europe/Madrid,2
+23018,,Pontevedra Universidad,,42.4387499,-8.6304812,,,,,Europe/Madrid,2
+23001,,Cesantes,,42.310258,-8.616541,,,,,Europe/Madrid,2
+20002,,Quintana-Raneros,,42.550085,-5.637789,,,,,Europe/Madrid,2
+20008,,Villavante,,42.46458,-5.838914,,,,,Europe/Madrid,2
+20006,,Barrientos,,42.414301,-5.963988,,,,,Europe/Madrid,2
+20007,,Nistal,,42.424462,-6.00803,,,,,Europe/Madrid,2
+20103,,Porqueros,,42.598935,-6.108238,,,,,Europe/Madrid,2
+20106,,La Granja,,42.614874,-6.282495,,,,,Europe/Madrid,2
+22201,,O PorriÃ±o,,42.16419,-8.62202,,,,,Europe/Madrid,2
+22200,,Guillarei,,42.065663,-8.62253,,,,,Europe/Madrid,2
+22110,,Caldelas,,42.055813,-8.566343,,,,,Europe/Madrid,2
+22109,,Salvaterra,,42.08164,-8.495141,,,,,Europe/Madrid,2
+22108,,As Neves,,42.075462,-8.420074,,,,,Europe/Madrid,2
+22106,,Arbo,,42.107058,-8.300247,,,,,Europe/Madrid,2
+22104,,Frieira,,42.154882,-8.201036,,,,,Europe/Madrid,2
+22103,,Filgueira,,42.219917,-8.184788,,,,,Europe/Madrid,2
+22102,,Ribadavia,,42.2931,-8.139261,,,,,Europe/Madrid,2
+22101,,Barbantes,,42.338376,-8.011721,,,,,Europe/Madrid,2
+20212,,VilamartÃ­n de Valdeorras,,42.411829,-7.061185,,,,,Europe/Madrid,2
+20210,,Sobradelo,,42.414859,-6.911951,,,,,Europe/Madrid,2
+20208,,QuereÃ±o,,42.420704,-6.829486,,,,,Europe/Madrid,2
+20207,,Covas,,42.475326,-6.830878,,,,,Europe/Madrid,2
+20204,,Toral de los Vados,,42.541052,-6.776703,,,,,Europe/Madrid,2
+20203,,Villadepalos,,42.53686,-6.751109,,,,,Europe/Madrid,2
+20214,,Montefurado,,42.39402,-7.1984,,,,,Europe/Madrid,2
+20218,,A Pobra Do BrollÃ³n,,42.533682,-7.400088,,,,,Europe/Madrid,2
+22001,,Canaval,,42.482882,-7.587733,,,,,Europe/Madrid,2
+22002,,Areas,,42.457799,-7.62879,,,,,Europe/Madrid,2
+22003,,Santo Estevo Do Sil,,42.426921,-7.661676,,,,,Europe/Madrid,2
+22004,,San Pedro Do Sil,,42.441353,-7.70412,,,,,Europe/Madrid,2
+22005,,Os Peares,,42.451439,-7.735523,,,,,Europe/Madrid,2
+22006,,Barra de MiÃ±o,,42.401095,-7.802567,,,,,Europe/Madrid,2
+22105,,Pousa-Crecente,,42.136705,-8.234889,,,,,Europe/Madrid,2
+22107,,Sela,,42.092092,-8.355998,,,,,Europe/Madrid,2
+20410,,ElviÃ±a-Universidade,,43.335222,-8.413061,,,,,Europe/Madrid,2
+20404,,O Burgo-Santiago,,43.317841,-8.36875,,,,,Europe/Madrid,2
+20403,,Cambre,,43.290502,-8.352104,,,,,Europe/Madrid,2
+20402,,Cecebre,,43.287913,-8.307767,,,,,Europe/Madrid,2
+20400,,Betanzos-Infesta,,43.270698,-8.225847,,,,,Europe/Madrid,2
+20320,,Oza Dos RÃ­os,,43.21877,-8.187111,,,,,Europe/Madrid,2
+20319,,Cesuras,,43.173073,-8.2005,,,,,Europe/Madrid,2
+20318,,PiÃ±oi,,43.127922,-8.163498,,,,,Europe/Madrid,2
+20317,,Curtis,,43.127232,-8.143155,,,,,Europe/Madrid,2
+20316,,Teixeiro,,43.141411,-8.03769,,,,,Europe/Madrid,2
+20314,,Guitiriz,,43.179058,-7.895039,,,,,Europe/Madrid,2
+20313,,Parga,,43.163644,-7.837383,,,,,Europe/Madrid,2
+20312,,Baamonde,,43.173405,-7.756128,,,,,Europe/Madrid,2
+20310,,RÃ¡bade,,43.121378,-7.624835,,,,,Europe/Madrid,2
+20306,,Pedrelo-CÃ©ltigos,,42.832934,-7.393329,,,,,Europe/Madrid,2
+21010,,Ferrol,,43.4880467,-8.2310664,,,,,Europe/Madrid,1
+21008,,PerlÃ­o,,43.472309,-8.174837,,,,,Europe/Madrid,2
+21005,,Cabanas,,43.415585,-8.168828,,,,,Europe/Madrid,2
+21004,,Pontedeume,,43.411797,-8.180416,,,,,Europe/Madrid,2
+21003,,Perbes,,43.378197,-8.201106,,,,,Europe/Madrid,2
+21002,,MiÃ±o,,43.349431,-8.207313,,,,,Europe/Madrid,2
+21001,,Betanzos-Cidade,,43.284137,-8.215874,,,,,Europe/Madrid,2
+21007,,Barallobre,,43.462899,-8.188586,,,,,Europe/Madrid,2
+21009,,Neda,,43.495351,-8.160967,,,,,Europe/Madrid,2
+31308,,LalÃ­n,,42.63253,-8.142715,,,,,Europe/Madrid,2
+31306,,O Irixo,,42.519719,-8.105174,,,,,Europe/Madrid,2
+31304,,O CarballiÃ±o,,42.43134,-8.068874,,,,,Europe/Madrid,2
+31303,,A Friela-Maside,,42.411401,-8.028967,,,,,Europe/Madrid,2
+51401,,Puerto Real,,36.5309155,-6.1853143,,,,,Europe/Madrid,1
+51205,,Aeropuerto de Jerez,,36.7515886,-6.0659384,,,,,Europe/Madrid,2
+51203,,Lebrija,,36.9116378,-6.0948487,,,,,Europe/Madrid,1
+51200,,Utrera,,37.1848178,-5.7907537,,,,,Europe/Madrid,1
+51103,,Dos Hermanas,,37.2872259,-5.9235322,,,,,Europe/Madrid,2
+51100,,San Bernardo,,37.3777778,-5.9796142,,,,,Europe/Madrid,1
+51110,,Virgen del RocÃ­o,,37.3628091,-5.9760105,,,,,Europe/Madrid,1
+3100,,JaÃ©n,,37.779827,-3.790798,,,,,Europe/Madrid,1
+50504,,Posadas,,37.803986,-5.106325,,,,,Europe/Madrid,2
+50506,,Palma del RÃ­o,,37.718081,-5.29276,,,,,Europe/Madrid,2
+50507,,PeÃ±aflor,,37.707502,-5.341609,,,,,Europe/Madrid,2
+50600,,Lora del RÃ­o,,37.6613212,-5.5295514,,,,,Europe/Madrid,2
+51202,,Las Cabezas de San Juan,,37.0194897,-5.94658,,,,,Europe/Madrid,2
+51409,,CÃ¡diz-Estadio,,36.5029461,-6.2720644,,,,,Europe/Madrid,1
+51404,,Segunda Aguada,,36.5135317,-6.2770128,,,,,Europe/Madrid,1
+43021,,San Juan del Puerto,,37.311898,-6.841076,,,,,Europe/Madrid,2
+43015,,Niebla-Puerta del Buey,,37.3587619,-6.6812578,,,,,Europe/Madrid,2
+43009,,Escacena,,37.397812,-6.39198,,,,,Europe/Madrid,2
+43008,,CarriÃ³n de los CÃ©spedes,,37.368955,-6.335088,,,,,Europe/Madrid,2
+43005,,BenacazÃ³n,,37.3568512,-6.2082011,,,,,Europe/Madrid,2
+43012,,Villarrasa,,37.386999,-6.598819,,,,,Europe/Madrid,2
+1007,,Osuna,,37.233899,-5.115026,,,,,Europe/Madrid,2
+51111,,Bellavista,,37.3215188,-5.9641924,,,,,Europe/Madrid,2
+1003,,Arahal,,37.268081,-5.548514,,,,,Europe/Madrid,2
+1005,,Marchena,,37.334282,-5.425519,,,,,Europe/Madrid,2
+42008,,Jabugo-Galaroza,,37.928243,-6.773908,,,,,Europe/Madrid,2
+42020,,GibraleÃ³n,,37.36852,-6.96207,,,,,Europe/Madrid,2
+42019,,Belmonte,,37.461864,-6.947533,,,,,Europe/Madrid,2
+42018,,El CobujÃ³n,,37.516509,-6.953428,,,,,Europe/Madrid,2
+42016,,Los Milanos,,37.586219,-6.919938,,,,,Europe/Madrid,2
+42015,,CalaÃ±as,,37.652007,-6.875841,,,,,Europe/Madrid,2
+42013,,El Tamujoso,,37.720339,-6.900554,,,,,Europe/Madrid,2
+42012,,Valdelamusa,,37.787111,-6.873729,,,,,Europe/Madrid,2
+42009,,Almonaster-Cortegana,,37.901174,-6.797372,,,,,Europe/Madrid,2
+40100,,Zafra,,38.413635,-6.405083,,,,,Europe/Madrid,2
+42006,,Cumbres Mayores,,38.053126,-6.631553,,,,,Europe/Madrid,2
+42005,,Fregenal de la Sierra,,38.167613,-6.637909,,,,,Europe/Madrid,2
+54403,,El Chorro-Caminito del Rey,,36.907335,-4.759258,,,,,Europe/Madrid,2
+54517,,MÃ¡laga-Centro Alameda,,36.7159539,-4.4265335,,,,,Europe/Madrid,2
+54501,,Victoria Kent,,36.7012229,-4.4544145,,,,,Europe/Madrid,1
+54412,,MÃ¡laga-Los Prados,,36.6986108,-4.47815,,,,,Europe/Madrid,2
+54410,,Campanillas,,36.7050436,-4.5454825,,,,,Europe/Madrid,2
+54408,,CÃ¡rtama,,36.7337392,-4.6083966,,,,,Europe/Madrid,2
+54407,,Aljaima,,36.7330833,-4.6645001,,,,,Europe/Madrid,2
+54406,,Pizarra,,36.7641515,-4.7118313,,,,,Europe/Madrid,2
+54405,,Ãlora,,36.8198747,-4.6996105,,,,,Europe/Madrid,2
+54404,,Las Mellizas,,36.873306,-4.719433,,,,,Europe/Madrid,2
+50413,,Alcolea de CÃ³rdoba,,37.922326,-4.694751,,,,,Europe/Madrid,2
+50417,,Campus Universitario de Rabanales,,37.91256,-4.72086,,,,,Europe/Madrid,1
+50501,,El HiguerÃ³n,,37.870271,-4.838942,,,,,Europe/Madrid,2
+50502,,Villarrubia de CÃ³rdoba,,37.847574,-4.915339,,,,,Europe/Madrid,2
+50407,,Villa del RÃ­o,,37.981331,-4.283788,,,,,Europe/Madrid,2
+50403,,AndÃºjar,,38.028225,-4.066036,,,,,Europe/Madrid,2
+50400,,EspelÃºy,,38.010247,-3.832726,,,,,Europe/Madrid,2
+54400,,Bobadilla,,37.037073,-4.727942,,,,,Europe/Madrid,1
+1009,,Pedrera,,37.222396,-4.893519,,,,,Europe/Madrid,2
+56308,,GÃ¡dor,,36.951624,-2.487658,,,,,Europe/Madrid,2
+56305,,GÃ©rgal,,37.108847,-2.591556,,,,,Europe/Madrid,2
+56301,,FiÃ±ana,,37.184647,-2.839757,,,,,Europe/Madrid,2
+56103,,BenalÃºa de Guadix,,37.345277,-3.163177,,,,,Europe/Madrid,2
+57003,,Iznalloz,,37.395852,-3.527947,,,,,Europe/Madrid,2
+60914,,Universidad de Alicante,,38.384165,-0.528411,,,,,Europe/Madrid,2
+60913,,Sant Vicent Centre,,38.3946533,-0.5287247,,,,,Europe/Madrid,2
+65400,,Tortosa,,40.807333,0.5230136,,,,,Europe/Madrid,1
+65003,,ValÃ¨ncia-Cabanyal,,39.4702456,-0.3346772,,,,,Europe/Madrid,2
+65208,,Vila-Real,,39.9330935,-0.0967681,,,,,Europe/Madrid,2
+65306,,Torreblanca,,40.212211,0.198779,,,,,Europe/Madrid,2
+65308,,AlcalÃ¡ de Chivert,,40.30469,0.228717,,,,,Europe/Madrid,2
+65314,,Ulldecona-Alcanar-La SÃ©nia,,40.5959267,0.44927448,,,,,Europe/Madrid,2
+65206,,Nules la Villavella,,39.8532354,-0.1527317,,,,,Europe/Madrid,2
+62003,,Callosa de Segura,,38.1227686,-0.8745747,,,,,Europe/Madrid,2
+62100,,San Isidro-Albatera-Catral,,38.1670209,-0.8380854,,,,,Europe/Madrid,2
+62101,,Crevillente,,38.2245622,-0.7815283,,,,,Europe/Madrid,2
+62102,,Elche/Elx-CarrÃºs,,38.2689783,-0.7063992,,,,,Europe/Madrid,2
+62104,,Torrellano,,38.2896365,-0.5824572,,,,,Europe/Madrid,2
+62109,,Sant Gabriel,,38.3290647,-0.5086866,,,,,Europe/Madrid,2
+60907,,Novelda-Aspe,,38.407086,-0.777744,,,,,Europe/Madrid,2
+60904,,Sax,,38.544251,-0.813729,,,,,Europe/Madrid,2
+60900,,La Encina,,38.765344,-0.954244,,,,,Europe/Madrid,2
+60800,,Almansa,,38.867822,-1.105446,,,,,Europe/Madrid,2
+64200,,Silla,,39.3619548,-0.4149813,,,,,Europe/Madrid,2
+69011,,Alcoi,,38.709349,-0.470247,,,,,Europe/Madrid,2
+64203,,Alfafar-BenetÃºsser,,39.4224232,-0.392605,,,,,Europe/Madrid,2
+64202,,Massanassa,,39.4091934,-0.3953073,,,,,Europe/Madrid,2
+64201,,Catarroja,,39.4000447,-0.3992195,,,,,Europe/Madrid,2
+64107,,BenifaiÃ³,,39.2843027,-0.4299537,,,,,Europe/Madrid,2
+64105,,AlgemesÃ­,,39.1931484,-0.4409196,,,,,Europe/Madrid,2
+64104,,Alzira,,39.1531495,-0.4506011,,,,,Europe/Madrid,2
+64103,,Carcaixent,,39.1205251,-0.4544102,,,,,Europe/Madrid,2
+64102,,La Pobla Llarga,,39.0833385,-0.4696592,,,,,Europe/Madrid,2
+64007,,Lenova-Manuel,,39.0500727,-0.4776036,,,,,Europe/Madrid,2
+69002,,BenigÃ nim,,38.938499,-0.453424,,,,,Europe/Madrid,2
+69006,,Albaida,,38.845645,-0.518129,,,,,Europe/Madrid,2
+69008,,Ontinyent,,38.809692,-0.602457,,,,,Europe/Madrid,2
+65002,,ValÃ¨ncia-La Font de Sant LluÃ­s,,39.4416052,-0.371422,,,,,Europe/Madrid,2
+65008,,PuÃ§ol,,39.6205367,-0.3031085,,,,,Europe/Madrid,2
+65005,,Albuixech,,39.5435233,-0.3205526,,,,,Europe/Madrid,2
+65007,,El Puig,,39.588302,-0.3116645,,,,,Europe/Madrid,2
+65202,,Almenara,,39.7487737,-0.2183811,,,,,Europe/Madrid,2
+65204,,Chilches/Xilxes,,39.7826726,-0.1903295,,,,,Europe/Madrid,2
+65207,,Burriana-AlquerÃ­as NiÃ±o Perdido,,39.8965088,-0.1038601,,,,,Europe/Madrid,2
+65209,,Almassora,,39.9549079,-0.0767713,,,,,Europe/Madrid,2
+65001,,Roca-CÃºper,,39.5262094,-0.3238405,,,,,Europe/Madrid,2
+65006,,Massalfassar,,39.5557532,-0.3183058,,,,,Europe/Madrid,2
+65201,,Les Valls,,39.7193457,-0.2397602,,,,,Europe/Madrid,2
+65203,,La Llosa,,39.7678109,-0.2029444,,,,,Europe/Madrid,2
+65205,,Moncofa,,39.8208891,-0.1626965,,,,,Europe/Madrid,2
+71400,,Reus,,41.1605229,1.10008978,,,,,Europe/Madrid,1
+79400,,Barcelona EstaciÃ³ de FranÃ§a,,41.3844866,2.18534785,,,,,Europe/Madrid,1
+71802,,Barcelona-Passeig de GrÃ cia,,41.3920862,2.16533862,,,,,Europe/Madrid,2
+71700,,Vilanova i la GeltrÃº,,41.2203207,1.73077249,,,,,Europe/Madrid,2
+71600,,Sant VicenÃ§ de Calders,,41.1862102,1.52480358,,,,,Europe/Madrid,2
+71503,,Torredembarra,,41.1427923,1.40578377,,,,,Europe/Madrid,1
+71502,,Altafulla-Tamarit,,41.1366479,1.37341488,,,,,Europe/Madrid,2
+71401,,Vila-Seca,,41.1128193,1.15037877,,,,,Europe/Madrid,2
+71209,,Riba-Roja D'Ebre,,41.2485594,0.48103178,,,,,Europe/Madrid,2
+71307,,Les Borges del Camp,,41.1665064,1.0221323,,,,,Europe/Madrid,2
+71306,,Riudecanyes-Botarell,,41.1400577,0.97574775,,,,,Europe/Madrid,2
+71305,,DuesaigÃ¼es-L'Argentera,,41.1436928,0.92087096,,,,,Europe/Madrid,2
+71304,,Pradell,,41.1333595,0.85865032,,,,,Europe/Madrid,2
+71303,,MarÃ§Ã -Falset,,41.1309421,0.81041774,,,,,Europe/Madrid,2
+71302,,CapÃ§anes,,41.1020902,0.78036099,,,,,Europe/Madrid,2
+71300,,MÃ³ra la Nova,,41.1065823,0.65321819,,,,,Europe/Madrid,2
+71211,,AscÃ³,,41.1823727,0.56902524,,,,,Europe/Madrid,2
+71210,,Flix,,41.2293651,0.54010012,,,,,Europe/Madrid,2
+71204,,Caspe,,41.239738,-0.042701,,,,,Europe/Madrid,2
+71208,,FaiÃ³-La Pobla de Massaluca,,41.2250555,0.35110259,,,,,Europe/Madrid,2
+71207,,Nonaspe,,41.213788,0.242472,,,,,Europe/Madrid,2
+71206,,Fabara,,41.234405,0.143284,,,,,Europe/Madrid,2
+72101,,Roda de Mar,,41.1864204,1.45520767,,,,,Europe/Madrid,2
+76004,,Valls,,41.2896079,1.25865179,,,,,Europe/Madrid,2
+73001,,Puigverd de Lleida-Artesa,,41.5537015,0.73342706,,,,,Europe/Madrid,2
+73002,,Juneda,,41.5439328,0.82554185,,,,,Europe/Madrid,2
+73003,,Les Borges Blanques,,41.5213973,0.87791022,,,,,Europe/Madrid,2
+73005,,Vinaixa,,41.425141,0.9703737,,,,,Europe/Madrid,2
+73006,,VimbodÃ­ i Poblet,,41.4027277,1.04603327,,,,,Europe/Madrid,2
+73007,,L'Espluga de FrancolÃ­,,41.4006616,1.10336094,,,,,Europe/Madrid,2
+73008,,Montblanc,,41.3766254,1.16554869,,,,,Europe/Madrid,2
+73100,,La Plana-Picamoixons,,41.3061987,1.19488293,,,,,Europe/Madrid,2
+73009,,Vilaverd,,41.3376633,1.17653235,,,,,Europe/Madrid,2
+73010,,La Riba,,41.3184926,1.1813126,,,,,Europe/Madrid,2
+76003,,Nulles-BrÃ fim,,41.2503192,1.29750259,,,,,Europe/Madrid,2
+76001,,SalomÃ³,,41.2234416,1.37662504,,,,,Europe/Madrid,2
+76002,,Vilabella,,41.2395473,1.31749155,,,,,Europe/Madrid,2
+73004,,La Floresta,,41.5042013,0.924432,,,,,Europe/Madrid,2
+73102,,La Selva del Camp,,41.2111544,1.14396003,,,,,Europe/Madrid,2
+73101,,Alcover,,41.2616066,1.17416002,,,,,Europe/Madrid,2
+65411,,Salou-Port Aventura,,41.0884798,1.14605195,,,,,Europe/Madrid,2
+79315,,Portbou,,42.4245908,3.15801841,,,,,Europe/Madrid,1
+79009,,Barcelona-El Clot,,41.4092979,2.18719759,,,,,Europe/Madrid,2
+79104,,Sant Celoni,,41.6857928,2.49072799,,,,,Europe/Madrid,2
+79200,,MaÃ§anet-Massanes,,41.7724212,2.67385865,,,,,Europe/Madrid,2
+79202,,Sils,,41.8075996,2.74500729,,,,,Europe/Madrid,2
+79203,,Caldes de Malavella,,41.84111,2.80076692,,,,,Europe/Madrid,2
+79303,,FlaÃ§Ã ,,42.047477,2.95740315,,,,,Europe/Madrid,1
+79309,,Figueres,,42.2651134,2.96880074,,,,,Europe/Madrid,1
+79312,,LlanÃ§Ã ,,42.3666194,3.1489746,,,,,Europe/Madrid,2
+71205,,Val de Pilas,,41.230056,0.070145,,,,,Europe/Madrid,2
+71201,,Samper,,41.182183,-0.368761,,,,,Europe/Madrid,2
+71200,,La Puebla de HÃ­jar,,41.2244,-0.438595,,,,,Europe/Madrid,2
+71108,,La Zaida-SÃ¡stago,,41.320542,-0.427115,,,,,Europe/Madrid,2
+71105,,Quinto,,41.419528,-0.490673,,,,,Europe/Madrid,2
+71103,,Fuentes de Ebro,,41.515065,-0.618625,,,,,Europe/Madrid,2
+70806,,Zaragoza-Portillo,,41.6527361,-0.8958759,,,,,Europe/Madrid,1
+70807,,Zaragoza-Goya,,41.6438779,-0.8912574,,,,,Europe/Madrid,2
+71100,,Zaragoza-Miraflores,,41.6334311,-0.8681653,,,,,Europe/Madrid,1
+78302,,BinÃ©far,,41.849768,0.291478,,,,,Europe/Madrid,2
+78301,,MonzÃ³n-RÃ­o Cinca,,41.913679,0.196939,,,,,Europe/Madrid,2
+78203,,SariÃ±ena,,41.817529,-0.17076,,,,,Europe/Madrid,2
+78201,,GraÃ±Ã©n,,41.938033,-0.369329,,,,,Europe/Madrid,2
+78005,,Villanueva de GÃ¡llego,,41.76551,-0.822204,,,,,Europe/Madrid,2
+78500,,Cervera,,41.673611,1.274773,,,,,Europe/Madrid,2
+78402,,Bell-Lloc D'Urgell,,41.631619,0.781547,,,,,Europe/Madrid,2
+78403,,Mollerussa,,41.631779,0.896775,,,,,Europe/Madrid,2
+78404,,GolmÃ©s,,41.635929,0.930863,,,,,Europe/Madrid,2
+78405,,Castellnou de Seana,,41.637464,0.967736,,,,,Europe/Madrid,2
+78406,,Bellpuig,,41.632545,1.012993,,,,,Europe/Madrid,2
+78407,,Anglesola,,41.646448,1.079192,,,,,Europe/Madrid,2
+78408,,TÃ rrega,,41.650387,1.138963,,,,,Europe/Madrid,2
+78700,,Terrassa EstaciÃ³ del Nord,,41.5697825,2.01435428,,,,,Europe/Madrid,2
+78604,,Sant VicenÃ§ de Castellet,,41.6688309,1.86264304,,,,,Europe/Madrid,2
+78600,,Manresa,,41.7203921,1.82648564,,,,,Europe/Madrid,2
+78506,,Rajadell,,41.733159,1.696275,,,,,Europe/Madrid,2
+78505,,Aguilar de Segarra,,41.738917,1.62372,,,,,Europe/Madrid,2
+78504,,Seguers-Sant Pere Sallavinera,,41.747991,1.574167,,,,,Europe/Madrid,2
+78503,,Calaf,,41.730334,1.515097,,,,,Europe/Madrid,2
+78502,,Sant MartÃ­ Sesgueioles,,41.701217,1.486204,,,,,Europe/Madrid,2
+78501,,Sant Guim de Freixenet,,41.655924,1.42053,,,,,Europe/Madrid,2
+74217,,Canfranc,,42.751471,-0.514641,,,,,Europe/Madrid,2
+74216,,VillanÃºa,,42.688745,-0.52346,,,,,Europe/Madrid,2
+74214,,Castiello-Pueblo,,42.62811,-0.546291,,,,,Europe/Madrid,2
+74213,,Jaca,,42.578303,-0.539231,,,,,Europe/Madrid,2
+74211,,SabiÃ±Ã¡nigo,,42.520446,-0.373085,,,,,Europe/Madrid,2
+74209,,Caldearenas-AquiluÃ©,,42.397973,-0.499309,,,,,Europe/Madrid,2
+74208,,AnzÃ¡nigo,,42.403289,-0.643344,,,,,Europe/Madrid,2
+74207,,Santa MarÃ­a y la PeÃ±a,,42.38039,-0.695647,,,,,Europe/Madrid,2
+74206,,Riglos,,42.344756,-0.731599,,,,,Europe/Madrid,2
+74204,,Ayerbe,,42.27561,-0.682569,,,,,Europe/Madrid,2
+79314,,Colera,,42.4068837,3.15434316,,,,,Europe/Madrid,2
+79311,,VilajuÃ¯ga,,42.3256691,3.08754626,,,,,Europe/Madrid,2
+79308,,Vilamalla,,42.216362,2.97776423,,,,,Europe/Madrid,2
+79306,,Sant Miquel de FluviÃ ,,42.1721019,2.98959828,,,,,Europe/Madrid,2
+79305,,Camallera,,42.1223297,2.96536522,,,,,Europe/Madrid,2
+79304,,Sant Jordi Desvalls,,42.0683023,2.96447664,,,,,Europe/Madrid,2
+79302,,Bordils-JuiÃ ,,42.0370568,2.91529561,,,,,Europe/Madrid,2
+79301,,CelrÃ ,,42.0271984,2.87490587,,,,,Europe/Madrid,2
+79205,,Fornells de la Selva,,41.935043,2.80978324,,,,,Europe/Madrid,2
+79204,,Riudellots,,41.896297,2.81157037,,,,,Europe/Madrid,2
+79107,,Hostalric,,41.747788,2.63165011,,,,,Europe/Madrid,2
+79106,,Riells i Viabrea-Breda,,41.7263582,2.56889584,,,,,Europe/Madrid,2
+79105,,Gualba,,41.7181901,2.53878373,,,,,Europe/Madrid,2
+79100,,Granollers-Centre,,41.5997447,2.29126962,,,,,Europe/Madrid,1
+79004,,Barcelona-Sant Andreu,,41.4361251,2.19319866,,,,,Europe/Madrid,2
+79316,,CerbÃ¨re,,42.441664,3.16314935,,,,,Europe/Madrid,2
+11203,,Manzanos,,42.742899,-2.867501,,,,,Europe/Madrid,2
+11204,,La Puebla de ArganzÃ³n,,42.765245,-2.830385,,,,,Europe/Madrid,2
+11205,,Nanclares-Langraiz,,42.816216,-2.804942,,,,,Europe/Madrid,2
+11210,,AlegrÃ­a-Dulantzi,,42.848723,-2.514668,,,,,Europe/Madrid,2
+11212,,Agurain-Salvatierra de Ãlava,,42.84643,-2.38921,,,,,Europe/Madrid,2
+11213,,Araia,,42.869599,-2.306807,,,,,Europe/Madrid,2
+11305,,Brinkola,,43.0189865,-2.3346811,,,,,Europe/Madrid,2
+11306,,Legazpi,,43.0510385,-2.3306103,,,,,Europe/Madrid,2
+11402,,OrmÃ¡iztegui,,43.0402752,-2.256462,,,,,Europe/Madrid,2
+11404,,Beasain,,43.0462687,-2.2022994,,,,,Europe/Madrid,2
+11405,,Ordizia,,43.0527547,-2.1791923,,,,,Europe/Madrid,2
+11501,,Tolosa-Centro,,43.1393963,-2.0741122,,,,,Europe/Madrid,2
+11503,,Billabona-Zizurkil,,43.1891906,-2.0553722,,,,,Europe/Madrid,2
+11504,,Andoain-Centro,,43.2155738,-2.0204595,,,,,Europe/Madrid,2
+11507,,Hernani-Erdia,,43.2664779,-1.9726232,,,,,Europe/Madrid,2
+11516,,Lezo-RenterÃ­a,,43.3159364,-1.8994386,,,,,Europe/Madrid,2
+11515,,Pasaia,,43.3189428,-1.9171727,,,,,Europe/Madrid,2
+11514,,Herrera,,43.3193537,-1.9370173,,,,,Europe/Madrid,2
+11522,,Intxaurrondo,,43.3200487,-1.9517673,,,,,Europe/Madrid,2
+11513,,Ategorrieta,,43.3203225,-1.9598127,,,,,Europe/Madrid,2
+11512,,Gros,,43.3218457,-1.9738835,,,,,Europe/Madrid,2
+81205,,Cortes de Navarra,,41.915076,-1.420439,,,,,Europe/Madrid,2
+81203,,Ribaforada,,41.997038,-1.515097,,,,,Europe/Madrid,2
+80115,,Villafranca de Navarra,,42.280734,-1.745716,,,,,Europe/Madrid,2
+80114,,Marcilla de Navarra,,42.334851,-1.717418,,,,,Europe/Madrid,2
+80109,,Olite-Erriberri,,42.484989,-1.649964,,,,,Europe/Madrid,2
+80005,,Uharte-Arakil,,42.920606,-1.974814,,,,,Europe/Madrid,2
+80003,,Etxarri-Aranatz,,42.911138,-2.071245,,,,,Europe/Madrid,2
+80001,,Altsasu-Pueblo,,42.893283,-2.167429,,,,,Europe/Madrid,2
+11109,,Briviesca,,42.542765,-3.319287,,,,,Europe/Madrid,2
+11111,,Pancorbo,,42.630486,-3.112307,,,,,Europe/Madrid,2
+70801,,Utebo,,41.7108644,-0.9985828,,,,,Europe/Madrid,1
+70800,,Casetas,,41.7226479,-1.0201916,,,,,Europe/Madrid,1
+81210,,AlagÃ³n,,41.771422,-1.112771,,,,,Europe/Madrid,2
+81209,,CabaÃ±as de Ebro,,41.788065,-1.167533,,,,,Europe/Madrid,2
+81208,,Pedrola,,41.805198,-1.201673,,,,,Europe/Madrid,2
+81207,,Luceni,,41.826116,-1.243536,,,,,Europe/Madrid,2
+81206,,Gallur,,41.867164,-1.321342,,,,,Europe/Madrid,2
+81105,,Alcanadre,,42.407437,-2.122094,,,,,Europe/Madrid,2
+81102,,Agoncillo,,42.443585,-2.291701,,,,,Europe/Madrid,2
+60301,,Quero,,39.504173,-3.266072,,,,,Europe/Madrid,2
+60300,,VillacaÃ±as,,39.622698,-3.33051,,,,,Europe/Madrid,2
+60203,,Villasequilla,,39.879535,-3.728453,,,,,Europe/Madrid,2
+60202,,Castillejo-AÃ±over,,39.949634,-3.738774,,,,,Europe/Madrid,2
+60200,,Aranjuez,,40.0350257,-3.6182534,,,,,Europe/Madrid,2
+35207,,Casatejada,,39.891909,-5.677732,,,,,Europe/Madrid,2
+35005,,Illescas,,40.12088,-3.842262,,,,,Europe/Madrid,2
+35002,,Fuenlabrada,,40.2833784,-3.7994429,,,,,Europe/Madrid,2
+35303,,CaÃ±averal,,39.789124,-6.375031,,,,,Europe/Madrid,2
+35302,,Casas de MillÃ¡n,,39.811866,-6.326045,,,,,Europe/Madrid,2
+35301,,Mirabel,,39.866229,-6.228969,,,,,Europe/Madrid,2
+35406,,Valencia de AlcÃ¡ntara,,39.426928,-7.230688,,,,,Europe/Madrid,2
+35405,,San Vicente de AlcÃ¡ntara,,39.381561,-7.117075,,,,,Europe/Madrid,2
+35402,,Arroyo de Malpartida,,39.468078,-6.533634,,,,,Europe/Madrid,2
+50002,,Cinco Casas,,39.169282,-3.232663,,,,,Europe/Madrid,2
+94002,,Daimiel,,39.061553,-3.604213,,,,,Europe/Madrid,2
+94004,,Almagro,,38.895323,-3.709777,,,,,Europe/Madrid,2
+10400,,Ãvila,,40.657255,-4.683312,,,,,Europe/Madrid,1
+18002,,Madrid-Nuevos Ministerios,,40.4466271,-3.6923468,,,,,Europe/Madrid,1
+18001,,Madrid-Recoletos,,40.4233731,-3.690931,,,,,Europe/Madrid,2
+10000,,Madrid-PrÃ­ncipe PÃ­o,,40.4214895,-3.7189689,,,,,Europe/Madrid,1
+10001,,Aravaca,,40.4484551,-3.7855547,,,,,Europe/Madrid,2
+10002,,Pozuelo,,40.4474569,-3.8002779,,,,,Europe/Madrid,2
+10005,,Las Rozas,,40.4942887,-3.8681747,,,,,Europe/Madrid,2
+10100,,Pinar de las Rozas,,40.5222672,-3.8822477,,,,,Europe/Madrid,2
+10200,,Villalba de Guadarrama,,40.6264893,-4.0080301,,,,,Europe/Madrid,1
+10201,,San Yago,,40.6178953,-4.0310749,,,,,Europe/Madrid,2
+10202,,Las Zorreras-Navalquejigo,,40.6093116,-4.0463626,,,,,Europe/Madrid,2
+10203,,El Escorial,,40.5853675,-4.1324053,,,,,Europe/Madrid,2
+10204,,Zarzalejo,,40.5389272,-4.1580662,,,,,Europe/Madrid,2
+10205,,Robledo de Chavela,,40.5208244,-4.2467592,,,,,Europe/Madrid,2
+10206,,Santa MarÃ­a de la Alameda-Peguerinos,,40.569001,-4.2691255,,,,,Europe/Madrid,2
+10209,,El Pimpollar,,40.567587,-4.283541,,,,,Europe/Madrid,2
+10207,,Las Navas del MarquÃ©s,,40.589205,-4.362259,,,,,Europe/Madrid,2
+10208,,Navalperal,,40.591152,-4.408382,,,,,Europe/Madrid,2
+10300,,HerradÃ³n-La CaÃ±ada,,40.599275,-4.495039,,,,,Europe/Madrid,2
+97201,,Madrid-RamÃ³n y Cajal,,40.4881473,-3.6948037,,,,,Europe/Madrid,2
+97200,,Mirasierra-Paco de LucÃ­a,,40.499759,-3.7092505,,,,,Europe/Madrid,2
+97100,,Pitis,,40.4954173,-3.7261603,,,,,Europe/Madrid,2
+10101,,Las Matas,,40.5523869,-3.8967664,,,,,Europe/Madrid,2
+10103,,Torrelodones,,40.574554,-3.9566013,,,,,Europe/Madrid,2
+10104,,Galapagar-La Navata,,40.6003138,-3.982259,,,,,Europe/Madrid,2
+12100,,Segovia,,40.93403,-4.11365,,,,,Europe/Madrid,2
+12001,,Los Negrales,,40.638567,-4.0218746,,,,,Europe/Madrid,2
+12002,,Alpedrete,,40.6581044,-4.0349719,,,,,Europe/Madrid,2
+12004,,Collado Mediano,,40.6928982,-4.0359271,,,,,Europe/Madrid,2
+12005,,Los Molinos-Guadarrama,,40.7066407,-4.0671991,,,,,Europe/Madrid,2
+12006,,Cercedilla,,40.7376129,-4.0662985,,,,,Europe/Madrid,2
+12007,,Tablada,,40.705648,-4.12531,,,,,Europe/Madrid,2
+12008,,Gudillos,,40.716914,-4.157681,,,,,Europe/Madrid,2
+12009,,San Rafael,,40.714944,-4.18143,,,,,Europe/Madrid,2
+12010,,El Espinar,,40.740852,-4.189482,,,,,Europe/Madrid,2
+12011,,Los Ãngeles de San Rafael,,40.777909,-4.206933,,,,,Europe/Madrid,2
+12012,,Otero-Herreros,,40.80097,-4.203504,,,,,Europe/Madrid,2
+12013,,Ortigosa del Monte,,40.832771,-4.168094,,,,,Europe/Madrid,2
+12014,,Navas de RiofrÃ­o-La Losa,,40.856673,-4.141103,,,,,Europe/Madrid,2
+10302,,Guimorcondo,,40.649062,-4.614987,,,,,Europe/Madrid,2
+35012,,Humanes,,40.2558101,-3.8287055,,,,,Europe/Madrid,2
+10409,,ArÃ©valo,,41.047123,-4.701988,,,,,Europe/Madrid,2
+82100,,Soria,,41.754754,-2.476537,,,,,Europe/Madrid,1
+84104,,Quintana Redonda,,41.639726,-2.609682,,,,,Europe/Madrid,2
+84103,,Tardelcuende,,41.593525,-2.639337,,,,,Europe/Madrid,2
+84101,,AlmazÃ¡n-Villa,,41.489019,-2.525375,,,,,Europe/Madrid,2
+70400,,Torralba,,41.136617,-2.492952,,,,,Europe/Madrid,2
+70302,,SigÃ¼enza,,41.071417,-2.646407,,,,,Europe/Madrid,2
+70209,,Jadraque,,40.930229,-2.935935,,,,,Europe/Madrid,2
+70200,,Guadalajara,,40.6441928,-3.1822602,,,,,Europe/Madrid,2
+70103,,AlcalÃ¡ de Henares,,40.4890814,-3.3662457,,,,,Europe/Madrid,2
+70207,,Espinosa de Henares,,40.909686,-3.073157,,,,,Europe/Madrid,2
+70208,,Carrascosa de Henares,,40.90598,-3.014352,,,,,Europe/Madrid,2
+70210,,Matillas,,40.953808,-2.84326,,,,,Europe/Madrid,2
+70300,,Baides,,41.004864,-2.785635,,,,,Europe/Madrid,2
+70101,,San Fernando de Henares,,40.4427805,-3.5339866,,,,,Europe/Madrid,2
+70102,,TorrejÃ³n de Ardoz,,40.4547895,-3.47973,,,,,Europe/Madrid,2
+70107,,AlcalÃ¡ de Henares-Universidad,,40.5054303,-3.3353258,,,,,Europe/Madrid,2
+70104,,Meco,,40.5346731,-3.2986806,,,,,Europe/Madrid,2
+70105,,Azuqueca,,40.561077,-3.265397,,,,,Europe/Madrid,2
+70002,,Asamblea de Madrid-EntrevÃ­as,,40.3818618,-3.6680454,,,,,Europe/Madrid,2
+70003,,El Pozo,,40.3760377,-3.6561407,,,,,Europe/Madrid,2
+70005,,Vallecas,,40.382364,-3.623042,,,,,Europe/Madrid,2
+70109,,Santa Eugenia,,40.3869545,-3.6089855,,,,,Europe/Madrid,2
+70100,,VicÃ¡lvaro,,40.4012524,-3.595897,,,,,Europe/Madrid,2
+70108,,Coslada,,40.423237,-3.5611109,,,,,Europe/Madrid,2
+70112,,Soto del Henares,,40.463964,-3.4414076,,,,,Europe/Madrid,2
+70111,,La Garena,,40.4805448,-3.3930055,,,,,Europe/Madrid,2
+35109,,MontearagÃ³n,,39.960996,-4.647093,,,,,Europe/Madrid,2
+37406,,Villanueva de la Serena,,38.96886,-5.7965,,,,,Europe/Madrid,2
+37407,,Don Benito,,38.96695,-5.862923,,,,,Europe/Madrid,2
+37409,,Valdetorres,,38.913301,-6.069407,,,,,Europe/Madrid,2
+37410,,GuareÃ±a,,38.896749,-6.128842,,,,,Europe/Madrid,2
+37611,,Garrovilla-Las Vegas,,38.915763,-6.47408,,,,,Europe/Madrid,2
+37608,,Montijo-El Molino,,38.913973,-6.618281,,,,,Europe/Madrid,2
+37604,,Guadiana,,38.922099,-6.689998,,,,,Europe/Madrid,2
+37311,,Cabeza del Buey,,38.72389,-5.227067,,,,,Europe/Madrid,2
+37400,,AlmorchÃ³n,,38.696631,-5.290496,,,,,Europe/Madrid,2
+37402,,Castuera,,38.735021,-5.541637,,,,,Europe/Madrid,2
+37404,,Campanario,,38.853395,-5.641415,,,,,Europe/Madrid,2
+40002,,Calamonte,,38.886931,-6.382965,,,,,Europe/Madrid,2
+40004,,Almendralejo,,38.684662,-6.399815,,,,,Europe/Madrid,2
+40005,,Villafranca de los Barros,,38.564402,-6.352048,,,,,Europe/Madrid,2
+40006,,Los Santos de Maimona,,38.449724,-6.361749,,,,,Europe/Madrid,2
+40008,,Zafra Feria,,38.424403,-6.410084,,,,,Europe/Madrid,2
+50700,,Los Rosales,,37.5899718,-5.7261208,,,,,Europe/Madrid,1
+40122,,Tocina,,37.6093044,-5.7316939,,,,,Europe/Madrid,2
+40119,,Villanueva del RÃ­o-Minas,,37.6617048,-5.7121543,,,,,Europe/Madrid,2
+40115,,Pedroso,,37.8373919,-5.7624522,,,,,Europe/Madrid,2
+40113,,Cazalla-Constantina,,37.9328637,-5.704433,,,,,Europe/Madrid,2
+40108,,Guadalcanal,,38.090197,-5.803388,,,,,Europe/Madrid,2
+40107,,Fuente del Arco,,38.16353,-5.900484,,,,,Europe/Madrid,2
+40105,,Llerena,,38.237,-6.009017,,,,,Europe/Madrid,2
+11004,,Magaz,,41.976561,-4.432114,,,,,Europe/Madrid,2
+11006,,Quintana del Puente,,42.079974,-4.19858,,,,,Europe/Madrid,2
+11009,,VillaquirÃ¡n,,42.215717,-3.999396,,,,,Europe/Madrid,2
+60507,,La Gineta,,39.111665,-2.000155,,,,,Europe/Madrid,2
+60505,,La Roda de Albacete,,39.199594,-2.162547,,,,,Europe/Madrid,2
+60503,,Minaya,,39.240738,-2.348403,,,,,Europe/Madrid,2
+60402,,Campo de Criptana,,39.394343,-3.117746,,,,,Europe/Madrid,2
+3001,,MengÃ­bar-Artichuela,,37.978219,-3.803308,,,,,Europe/Madrid,2
+50202,,Almuradiel-Viso del MarquÃ©s,,38.514267,-3.501935,,,,,Europe/Madrid,2
+50200,,Santa Cruz de Mudela,,38.644428,-3.451493,,,,,Europe/Madrid,2
+60207,,El Romeral,,39.694516,-3.430502,,,,,Europe/Madrid,2
+60206,,Tembleque,,39.722958,-3.497354,,,,,Europe/Madrid,2
+65420,,L'Hospitalet de L'Infant,,40.99939,0.91253887,,,,,Europe/Madrid,2
+65405,,L'Ametlla de Mar,,40.8862,0.80045321,,,,,Europe/Madrid,2
+65404,,L'Ampolla-El PerellÃ³-Deltebre,,40.8119898,0.70826336,,,,,Europe/Madrid,2
+65403,,Camarles-Deltebre,,40.7747633,0.67176095,,,,,Europe/Madrid,2
+65401,,Camp-RedÃ³,,40.7591556,0.55584433,,,,,Europe/Madrid,2
+81106,,FÃ©culas-Navarra,,42.411148,-2.098196,,,,,Europe/Madrid,2
+60901,,Caudete,,38.716163,-0.959727,,,,,Europe/Madrid,2
+14101,,MonzÃ³n de Campos,,42.105538,-4.501677,,,,,Europe/Madrid,2
+14117,,El CarriÃ³n,,42.1166417,-4.500692,,,,,Europe/Madrid,2
+14102,,Amusco,,42.178019,-4.480743,,,,,Europe/Madrid,2
+14103,,PiÃ±a,,42.211747,-4.434689,,,,,Europe/Madrid,2
+14104,,FrÃ³mista,,42.2649,-4.402433,,,,,Europe/Madrid,2
+14107,,Osorno,,42.415077,-4.357367,,,,,Europe/Madrid,2
+14108,,Espinosa de Villagonzalo,,42.452373,-4.367811,,,,,Europe/Madrid,2
+14111,,Herrera de Pisuerga,,42.598477,-4.316683,,,,,Europe/Madrid,2
+14112,,Alar del Rey,,42.656837,-4.311372,,,,,Europe/Madrid,2
+14113,,Mave,,42.723726,-4.27616,,,,,Europe/Madrid,2
+14115,,Quintanilla de las Torres,,42.81903,-4.202753,,,,,Europe/Madrid,2
+14200,,Mataporquera,,42.870901,-4.165406,,,,,Europe/Madrid,2
+14206,,BÃ¡rcena,,43.1287054,-4.053473,,,,,Europe/Madrid,2
+14210,,Los Corrales de Buelna,,43.2551009,-4.0639472,,,,,Europe/Madrid,2
+14216,,Renedo,,43.3531069,-3.9496471,,,,,Europe/Madrid,2
+14220,,MaliaÃ±o,,43.4161415,-3.8410762,,,,,Europe/Madrid,2
+14230,,Valdecilla,,43.4540888,-3.8277628,,,,,Europe/Madrid,2
+15006,,Cisneros,,42.19112,-4.850249,,,,,Europe/Madrid,2
+15014,,Santas Martas,,42.460004,-5.386777,,,,,Europe/Madrid,2
+30110,,Salamanca-La Alamedilla,,40.966763,-5.656366,,,,,Europe/Madrid,2
+32009,,Moriscos,,41.011633,-5.584713,,,,,Europe/Madrid,2
+32008,,Gomecello,,41.041859,-5.541551,,,,,Europe/Madrid,2
+32007,,Pitiegua,,41.063741,-5.474174,,,,,Europe/Madrid,2
+32006,,El Pedroso de la ArmuÃ±a,,41.079901,-5.406019,,,,,Europe/Madrid,2
+32001,,Campillo,,41.259509,-5.017791,,,,,Europe/Madrid,2
+31200,,Puebla de Sanabria,,42.045763,-6.626848,,,,,Europe/Madrid,2
+31002,,Nava del Rey,,41.334716,-5.076818,,,,,Europe/Madrid,2
+31006,,Toro,,41.512201,-5.384953,,,,,Europe/Madrid,2
+31104,,Carbajales de Alba,,41.681542,-5.971906,,,,,Europe/Madrid,2
+31106,,Ferreruela de TÃ¡bara,,41.764106,-6.0739,,,,,Europe/Madrid,2
+31107,,Abejera,,41.80942,-6.141851,,,,,Europe/Madrid,2
+31108,,SarracÃ­n de Aliste,,41.848497,-6.20513,,,,,Europe/Madrid,2
+31109,,CabaÃ±as de Aliste,,41.854595,-6.24635,,,,,Europe/Madrid,2
+31112,,Linarejos-Pedroso,,41.946963,-6.484541,,,,,Europe/Madrid,2
+37308,,Guadalmez-Los Pedroches,,38.69921,-4.929771,,,,,Europe/Madrid,2
+37305,,Almadenejos-AlmadÃ©n,,38.740578,-4.730387,,,,,Europe/Madrid,2
+37302,,Brazatortas-Veredas,,38.668758,-4.316468,,,,,Europe/Madrid,2
+67200,,Teruel,,40.341029,-1.110284,,,,,Europe/Madrid,1
+67004,,MarÃ­a de Huerva,,41.539759,-0.998082,,,,,Europe/Madrid,2
+67007,,AraÃ±ales de Muel,,41.468946,-1.086394,,,,,Europe/Madrid,2
+67009,,Longares,,41.404787,-1.158791,,,,,Europe/Madrid,2
+67010,,CariÃ±ena,,41.335586,-1.228422,,,,,Europe/Madrid,2
+67021,,Calamocha,,40.903864,-1.299841,,,,,Europe/Madrid,2
+67100,,Caminreal-Fuentes Claras,,40.85111,-1.33765,,,,,Europe/Madrid,2
+67101,,Torrijo del Campo,,40.826012,-1.340498,,,,,Europe/Madrid,2
+67113,,Monreal del Campo,,40.782321,-1.360792,,,,,Europe/Madrid,2
+67103,,Villafranca del Campo,,40.683827,-1.357927,,,,,Europe/Madrid,2
+67105,,Santa Eulalia del Campo,,40.572917,-1.312995,,,,,Europe/Madrid,2
+67107,,Cella,,40.455266,-1.244329,,,,,Europe/Madrid,2
+67011,,Encinacorba,,41.28865,-1.278534,,,,,Europe/Madrid,2
+67013,,Villarreal de Huerva,,41.196498,-1.287096,,,,,Europe/Madrid,2
+67014,,Villadoz,,41.165482,-1.279339,,,,,Europe/Madrid,2
+67015,,Badules,,41.13951,-1.251572,,,,,Europe/Madrid,2
+67016,,Villahermosa,,41.108492,-1.239803,,,,,Europe/Madrid,2
+67017,,Ferreruela,,41.06387,-1.239384,,,,,Europe/Madrid,2
+67018,,Cuencabuena,,41.009293,-1.254641,,,,,Europe/Madrid,2
+67019,,Lechago,,40.957681,-1.269087,,,,,Europe/Madrid,2
+67020,,Navarrete,,40.936721,-1.261733,,,,,Europe/Madrid,2
+67203,,Puebla de Valverde,,40.213424,-0.944674,,,,,Europe/Madrid,2
+67205,,SarriÃ³n,,40.146339,-0.823631,,,,,Europe/Madrid,2
+67206,,Mora de Rubielos,,40.123142,-0.786145,,,,,Europe/Madrid,2
+67207,,Rubielos de Mora,,40.118006,-0.773463,,,,,Europe/Madrid,2
+67208,,Barracas,,40.01174,-0.696151,,,,,Europe/Madrid,2
+67215,,Segorbe-Ciudad,,39.8471755,-0.4823544,,,,,Europe/Madrid,2
+14211,,Las Caldas de Besaya,,43.2985945,-4.073252,,,,,Europe/Madrid,2
+70403,,Arcos de JalÃ³n,,41.215854,-2.278998,,,,,Europe/Madrid,2
+70700,,Ricla-La Almunia,,41.501394,-1.40345,,,,,Europe/Madrid,2
+70505,,Terrer,,41.322218,-1.709254,,,,,Europe/Madrid,2
+70504,,Ateca,,41.324659,-1.785268,,,,,Europe/Madrid,2
+70502,,Alhama de AragÃ³n,,41.294398,-1.904454,,,,,Europe/Madrid,2
+70501,,Cetina,,41.295978,-1.961811,,,,,Europe/Madrid,2
+70500,,Ariza,,41.3098,-2.059411,,,,,Europe/Madrid,2
+70405,,Monreal de Ariza,,41.298767,-2.110448,,,,,Europe/Madrid,2
+70404,,Santa MarÃ­a de Huerta,,41.264421,-2.177525,,,,,Europe/Madrid,2
+70503,,Bubierca,,41.31719,-1.855198,,,,,Europe/Madrid,2
+34010,,PeÃ±aranda de Bracamonte,,40.898138,-5.206361,,,,,Europe/Madrid,2
+34014,,Aldealengua,,40.97989,-5.552951,,,,,Europe/Madrid,2
+34013,,San Morales,,40.984243,-5.492955,,,,,Europe/Madrid,2
+34012,,Babilafuente,,40.972426,-5.430593,,,,,Europe/Madrid,2
+34011,,Villar de Gallimazo,,40.951981,-5.296183,,,,,Europe/Madrid,2
+34008,,Narros del Castillo,,40.866641,-5.052869,,,,,Europe/Madrid,2
+34007,,Crespos,,40.87011,-4.96803,,,,,Europe/Madrid,2
+34005,,San Pedro del Arroyo,,40.803841,-4.871407,,,,,Europe/Madrid,2
+34002,,CardeÃ±osa de Ãvila,,40.73912,-4.75075,,,,,Europe/Madrid,2
+70401,,Medinaceli,,41.165207,-2.421241,,,,,Europe/Madrid,2
+70204,,Humanes de Mohernando,,40.831273,-3.13886,,,,,Europe/Madrid,2
+70202,,Yunquera de Henares,,40.747013,-3.163226,,,,,Europe/Madrid,2
+55019,,Los Barrios,,36.173998,-5.460801,,,,,Europe/Madrid,2
+55017,,Almoraima,,36.27751,-5.430529,,,,,Europe/Madrid,2
+55015,,Jimena de la Frontera,,36.4242,-5.434113,,,,,Europe/Madrid,2
+55014,,San Pablo,,36.467952,-5.418921,,,,,Europe/Madrid,2
+55013,,GaucÃ­n,,36.540372,-5.386825,,,,,Europe/Madrid,2
+55012,,Cortes de la Frontera,,36.597364,-5.332784,,,,,Europe/Madrid,2
+55011,,Jimera de LÃ­bar,,36.660678,-5.281473,,,,,Europe/Madrid,2
+55010,,BenaojÃ¡n-Montejaque,,36.713753,-5.246366,,,,,Europe/Madrid,2
+55008,,Arriate,,36.7905949,-5.140757,,,,,Europe/Madrid,2
+55005,,Setenil,,36.863423,-5.121375,,,,,Europe/Madrid,2
+55003,,Almargen-CaÃ±ete la Real,,37.000985,-5.020111,,,,,Europe/Madrid,2
+55001,,Campillos,,37.032231,-4.863499,,,,,Europe/Madrid,2
+70706,,GrisÃ©n,,41.745261,-1.165924,,,,,Europe/Madrid,2
+70703,,Ãpila,,41.60933,-1.301043,,,,,Europe/Madrid,2
+70702,,Salillas de JalÃ³n,,41.56794,-1.325848,,,,,Europe/Madrid,2
+70701,,Calatorao,,41.528692,-1.360545,,,,,Europe/Madrid,2
+70607,,Morata de JalÃ³n,,41.475467,-1.479721,,,,,Europe/Madrid,2
+70606,,Purroy,,41.477236,-1.540446,,,,,Europe/Madrid,2
+70605,,MorÃ©s,,41.478667,-1.566238,,,,,Europe/Madrid,2
+70604,,SabiÃ±Ã¡n,,41.443981,-1.571474,,,,,Europe/Madrid,2
+70602,,Embid de JalÃ³n,,41.421676,-1.592127,,,,,Europe/Madrid,2
+70603,,Paracuellos-SabiÃ±Ã¡n,,41.42931,-1.567483,,,,,Europe/Madrid,2
+69001,,GenovÃ©s,,38.98773,-0.47988,,,,,Europe/Madrid,2
+69003,,La Pobla del Duc,,38.907606,-0.453386,,,,,Europe/Madrid,2
+69004,,Montaberner,,38.884135,-0.491619,,,,,Europe/Madrid,2
+69005,,BufalÃ­,,38.867405,-0.510478,,,,,Europe/Madrid,2
+69007,,Agullent,,38.830569,-0.551183,,,,,Europe/Madrid,2
+69009,,Agres,,38.796829,-0.521744,,,,,Europe/Madrid,2
+69010,,Cocentaina,,38.740618,-0.446789,,,,,Europe/Madrid,2
+70705,,Plasencia de JalÃ³n,,41.68935,-1.234237,,,,,Europe/Madrid,2
+70704,,Rueda de JalÃ³n-Lumpiaque,,41.638892,-1.281667,,,,,Europe/Madrid,2
+5193,,Ribadeo,,43.53607,-7.055572,,,,,Europe/Madrid,2
+5102,,San XoÃ¡n,,43.4945654,-8.2142733,,,,,Europe/Madrid,2
+5104,,Virxe Do Mar,,43.4965254,-8.2048752,,,,,Europe/Madrid,2
+5103,,Santa IcÃ­a,,43.4997707,-8.1999226,,,,,Europe/Madrid,2
+5108,,O Alto Do CastiÃ±eiro,,43.5031794,-8.1955484,,,,,Europe/Madrid,2
+5105,,PiÃ±eiros,,43.509483,-8.1839923,,,,,Europe/Madrid,2
+5106,,O Ponto,,43.5147757,-8.1777808,,,,,Europe/Madrid,2
+5107,,Xuvia,,43.5171911,-8.161282,,,,,Europe/Madrid,2
+5109,,FerrerÃ­as,,43.5280178,-8.1504359,,,,,Europe/Madrid,2
+5111,,Sedes,,43.5426113,-8.1401903,,,,,Europe/Madrid,2
+5113,,Pedroso de NarÃ³n,,43.5367071,-8.1091931,,,,,Europe/Madrid,2
+5115,,San SadurniÃ±o,,43.5460838,-8.0781099,,,,,Europe/Madrid,2
+5117,,Lamas,,43.5473064,-8.0490166,,,,,Europe/Madrid,2
+5119,,Apalla,,43.550457,-8.0186188,,,,,Europe/Madrid,2
+5121,,Moeche,,43.562132,-8.0027572,,,,,Europe/Madrid,2
+5123,,Labacengos,,43.5652707,-7.9801882,,,,,Europe/Madrid,2
+5125,,EntrambarrÃ­as,,43.5770633,-7.9542644,,,,,Europe/Madrid,2
+5127,,Cerdido,,43.5873426,-7.9343099,,,,,Europe/Madrid,2
+5129,,A Cuqueira,,43.6078292,-7.9219389,,,,,Europe/Madrid,2
+5131,,Santa MarÃ­a de Mera,,43.6409288,-7.9161904,,,,,Europe/Madrid,2
+5133,,Ponte Mera,,43.666038,-7.9026205,,,,,Europe/Madrid,2
+5135,,San Clodio,,43.6609443,-7.873478,,,,,Europe/Madrid,2
+5137,,Senra,,43.668793,-7.8545534,,,,,Europe/Madrid,2
+5139,,Ortigueira,,43.6862217,-7.8495738,,,,,Europe/Madrid,2
+5141,,Espasante,,43.70888,-7.804897,,,,,Europe/Madrid,2
+5143,,Loiba,,43.730393,-7.750044,,,,,Europe/Madrid,2
+5145,,O Barqueiro,,43.735649,-7.70288,,,,,Europe/Madrid,2
+5147,,O Vicedo,,43.731026,-7.673215,,,,,Europe/Madrid,2
+5149,,Mosende,,43.706194,-7.635477,,,,,Europe/Madrid,2
+5151,,Folgueiro,,43.692766,-7.635048,,,,,Europe/Madrid,2
+5153,,Covas de Viveiro,,43.670275,-7.614613,,,,,Europe/Madrid,2
+5155,,Viveiro,,43.6569,-7.60033,,,,,Europe/Madrid,2
+5156,,Viveiro Apeadero,,43.661435,-7.594532,,,,,Europe/Madrid,2
+5157,,Xuances,,43.687991,-7.553904,,,,,Europe/Madrid,2
+5159,,Xove Pobo,,43.683567,-7.510921,,,,,Europe/Madrid,2
+5161,,Xove,,43.681138,-7.495251,,,,,Europe/Madrid,2
+5163,,Lago,,43.687108,-7.481942,,,,,Europe/Madrid,2
+5165,,Bidueiros,,43.696712,-7.468843,,,,,Europe/Madrid,2
+5167,,San Cibrao,,43.692319,-7.44177,,,,,Europe/Madrid,2
+5169,,Madeiro,,43.686219,-7.412863,,,,,Europe/Madrid,2
+5171,,Burela,,43.660607,-7.361183,,,,,Europe/Madrid,2
+5173,,Cangas de Foz,,43.626106,-7.333309,,,,,Europe/Madrid,2
+5175,,Nois,,43.610309,-7.312222,,,,,Europe/Madrid,2
+5177,,Fazouro,,43.600457,-7.299843,,,,,Europe/Madrid,2
+5179,,MarzÃ¡n,,43.57475,-7.26936,,,,,Europe/Madrid,2
+5181,,Foz,,43.560886,-7.272235,,,,,Europe/Madrid,2
+5183,,Barreiros,,43.547366,-7.225287,,,,,Europe/Madrid,2
+5185,,Reinante,,43.54987,-7.174315,,,,,Europe/Madrid,2
+5187,,Esteiro,,43.551697,-7.146099,,,,,Europe/Madrid,2
+5189,,Os Castros,,43.55157,-7.130895,,,,,Europe/Madrid,2
+5191,,Rinlo,,43.549761,-7.108645,,,,,Europe/Madrid,2
+5300,,VallobÃ­n,,43.3652306,-5.8647984,,,,,Europe/Madrid,2
+5301,,ArgaÃ±osa-LavapiÃ©s,,43.3658311,-5.870018,,,,,Europe/Madrid,2
+5302,,Las Campas,,43.3638889,-5.8833728,,,,,Europe/Madrid,2
+5303,,Las Mazas,,43.3587192,-5.8975568,,,,,Europe/Madrid,2
+5304,,San Claudio,,43.3553535,-5.9178091,,,,,Europe/Madrid,2
+5306,,San Pedro de Nora,,43.3687481,-5.9585951,,,,,Europe/Madrid,2
+5308,,Soto UdriÃ³n,,43.3564364,-5.9650157,,,,,Europe/Madrid,2
+5311,,Trubia,,43.34857,-5.9677756,,,,,Europe/Madrid,2
+5313,,Santa MarÃ­a de Grado,,43.3842274,-5.9827075,,,,,Europe/Madrid,2
+5315,,Vega de Anzo,,43.38933,-6.0056834,,,,,Europe/Madrid,2
+5316,,PeÃ±aflor de Grado,,43.4029267,-6.0453921,,,,,Europe/Madrid,2
+5317,,Grado,,43.3945424,-6.0637254,,,,,Europe/Madrid,2
+5319,,Sandiche,,43.4256226,-6.0599341,,,,,Europe/Madrid,2
+5320,,Aces,,43.4399142,-6.0657983,,,,,Europe/Madrid,2
+5321,,San RomÃ¡n,,43.4488839,-6.0771641,,,,,Europe/Madrid,2
+5323,,Beifar,,43.4701379,-6.0988707,,,,,Europe/Madrid,2
+5325,,Pravia,,43.4908983,-6.1105373,,,,,Europe/Madrid,2
+5243,,Muros del NalÃ³n,,43.5429728,-6.1110718,,,,,Europe/Madrid,2
+5245,,Cudillero,,43.5509259,-6.1519305,,,,,Europe/Madrid,2
+5249,,La Magdalena,,43.559309,-6.184922,,,,,Europe/Madrid,2
+5251,,San MartÃ­n de LuiÃ±a,,43.544753,-6.228702,,,,,Europe/Madrid,2
+5255,,Soto de LuiÃ±a,,43.559635,-6.234369,,,,,Europe/Madrid,2
+5259,,Novellana,,43.557795,-6.289593,,,,,Europe/Madrid,2
+5261,,Santa Marina,,43.552674,-6.305181,,,,,Europe/Madrid,2
+5263,,Ballota,,43.550716,-6.322812,,,,,Europe/Madrid,2
+5265,,Tablizo,,43.547253,-6.351225,,,,,Europe/Madrid,2
+5267,,Cadavedo,,43.542952,-6.391612,,,,,Europe/Madrid,2
+5269,,San CristÃ³bal,,43.547225,-6.415264,,,,,Europe/Madrid,2
+5271,,Canero,,43.541913,-6.445878,,,,,Europe/Madrid,2
+5275,,Luarca,,43.537949,-6.536617,,,,,Europe/Madrid,2
+5279,,Villapedre,,43.546723,-6.64587,,,,,Europe/Madrid,2
+5283,,Navia,,43.536802,-6.719425,,,,,Europe/Madrid,2
+5285,,Medal,,43.545692,-6.752994,,,,,Europe/Madrid,2
+5291,,La Caridad,,43.547074,-6.827541,,,,,Europe/Madrid,2
+5293,,Tapia,,43.535026,-6.909329,,,,,Europe/Madrid,2
+5299,,Castropol,,43.5095861,-7.0147697,,,,,Europe/Madrid,2
+5197,,Vegadeo Pueblo,,43.479667,-7.057327,,,,,Europe/Madrid,2
+5239,,Santianes,,43.503799,-6.0918391,,,,,Europe/Madrid,2
+5241,,Los Cabos,,43.5124147,-6.0974746,,,,,Europe/Madrid,2
+5244,,El Pito PiÃ±era,,43.5469091,-6.1433417,,,,,Europe/Madrid,2
+5247,,Villademar,,43.557065,-6.155477,,,,,Europe/Madrid,2
+5253,,San Cosme,,43.544069,-6.248091,,,,,Europe/Madrid,2
+5257,,Valdredo,,43.56638,-6.263234,,,,,Europe/Madrid,2
+5273,,Barcia,,43.546813,-6.50828,,,,,Europe/Madrid,2
+5277,,Otur,,43.540541,-6.593562,,,,,Europe/Madrid,2
+5281,,PiÃ±era-Villaoril,,43.535685,-6.685414,,,,,Europe/Madrid,2
+5287,,Loza,,43.551254,-6.771675,,,,,Europe/Madrid,2
+5289,,Cartavio,,43.550714,-6.789622,,,,,Europe/Madrid,2
+5295,,Tol,,43.527204,-6.952128,,,,,Europe/Madrid,2
+5297,,Las Campas de Castropol,,43.5202979,-6.9771022,,,,,Europe/Madrid,2
+5199,,Vilavedelle,,43.490502,-7.038353,,,,,Europe/Madrid,2
+5571,,Llanes,,43.42094,-4.7587,,,,,Europe/Madrid,2
+15217,,La Corredoria,,43.388108,-5.8272527,,,,,Europe/Madrid,1
+5504,,Parque Principado,,43.3865865,-5.8087971,,,,,Europe/Madrid,2
+5505,,Colloto,,43.3795086,-5.792366,,,,,Europe/Madrid,2
+5507,,Meres,,43.3809885,-5.7487209,,,,,Europe/Madrid,2
+5508,,Fonciello,,43.3817779,-5.7297194,,,,,Europe/Madrid,2
+5509,,El BerrÃ³n,,43.3827383,-5.7026774,,,,,Europe/Madrid,2
+5511,,La Carrera de Siero,,43.3869214,-5.6753462,,,,,Europe/Madrid,2
+5513,,Pola de Siero,,43.3881527,-5.6647718,,,,,Europe/Madrid,2
+5515,,Los Corros,,43.3768432,-5.6013769,,,,,Europe/Madrid,2
+5517,,Lieres,,43.380583,-5.5826229,,,,,Europe/Madrid,2
+5521,,El Remedio,,43.3750793,-5.5462394,,,,,Europe/Madrid,2
+5522,,Llames,,43.3687796,-5.5252404,,,,,Europe/Madrid,2
+5523,,Nava,,43.3611878,-5.5090986,,,,,Europe/Madrid,2
+5525,,Fuente Santa de Nava,,43.3555699,-5.478379,,,,,Europe/Madrid,2
+5527,,Ceceda,,43.3562226,-5.4511094,,,,,Europe/Madrid,2
+5529,,Carancos,,43.3555692,-5.4344422,,,,,Europe/Madrid,2
+5531,,Pintueles,,43.3599234,-5.3841316,,,,,Europe/Madrid,2
+5533,,Infiesto,,43.3517868,-5.3692019,,,,,Europe/Madrid,2
+5534,,Infiesto Apeadero,,43.3440407,-5.3606414,,,,,Europe/Madrid,2
+5535,,Villamayor,,43.3631,-5.30285,,,,,Europe/Madrid,2
+5537,,Sebares,,43.36236,-5.2574,,,,,Europe/Madrid,2
+5539,,Soto de DueÃ±as,,43.3583,-5.22689,,,,,Europe/Madrid,2
+5541,,Ozanes,,43.368395,-5.185191,,,,,Europe/Madrid,2
+5542,,PoliclÃ­nico,,43.378622,-5.18603,,,,,Europe/Madrid,2
+5543,,Arriondas,,43.387513,-5.188258,,,,,Europe/Madrid,2
+5545,,Fuentes,,43.401443,-5.143117,,,,,Europe/Madrid,2
+5547,,ToraÃ±o,,43.412281,-5.118013,,,,,Europe/Madrid,2
+5549,,Cuevas,,43.431144,-5.073302,,,,,Europe/Madrid,2
+5551,,Llovio,,43.440563,-5.055592,,,,,Europe/Madrid,2
+5553,,Ribadesella,,43.45945,-5.0545,,,,,Europe/Madrid,2
+5555,,Camango,,43.44821,-5.01882,,,,,Europe/Madrid,2
+5557,,Belmonte de PrÃ­a,,43.4398,-4.98228,,,,,Europe/Madrid,2
+5559,,Nueva,,43.440585,-4.935531,,,,,Europe/Madrid,2
+5561,,Villahormes,,43.4420099,-4.90383,,,,,Europe/Madrid,2
+5563,,Posada,,43.42483,-4.865,,,,,Europe/Madrid,2
+5565,,Balmori,,43.42147,-4.83583,,,,,Europe/Madrid,2
+5567,,Celorio,,43.42501,-4.81133,,,,,Europe/Madrid,2
+5569,,Poo,,43.42429,-4.78189,,,,,Europe/Madrid,2
+5621,,Torrelavega-Centro,,43.3510014,-4.0511789,,,,,Europe/Madrid,2
+5623,,Puente San Miguel,,43.3586724,-4.0877667,,,,,Europe/Madrid,2
+5637,,CabezÃ³n de la Sal,,43.3079038,-4.2319437,,,,,Europe/Madrid,2
+5641,,TreceÃ±o,,43.31828,-4.30902,,,,,Europe/Madrid,2
+5643,,Roiz,,43.32821,-4.34927,,,,,Europe/Madrid,2
+5644,,El Barcenal,,43.340347,-4.383335,,,,,Europe/Madrid,2
+5645,,San Vicente de la Barquera,,43.367837,-4.404504,,,,,Europe/Madrid,2
+5647,,PesuÃ©s,,43.370289,-4.480174,,,,,Europe/Madrid,2
+5649,,Unquera,,43.37478,-4.51434,,,,,Europe/Madrid,2
+5579,,Colombres,,43.38272,-4.55709,,,,,Europe/Madrid,2
+5577,,Pendueles,,43.39283,-4.63039,,,,,Europe/Madrid,2
+5575,,Vidiago,,43.39647,-4.673,,,,,Europe/Madrid,2
+5573,,San Roque del Acebal,,43.39473,-4.73013,,,,,Europe/Madrid,2
+5451,,Bilbao la Concordia,,43.2601901,-2.9263839,,,,,Europe/Madrid,2
+13206,,Ametzola,,43.2547065,-2.9436598,,,,,Europe/Madrid,2
+5455,,Basurto Hospital,,43.2597699,-2.9538267,,,,,Europe/Madrid,2
+5457,,Zorrotza Zorrozgoiti,,43.2740398,-2.9740116,,,,,Europe/Madrid,2
+5461,,Irauregui,,43.248418,-2.9900734,,,,,Europe/Madrid,2
+5463,,Zaramillo,,43.2332894,-3.015904,,,,,Europe/Madrid,2
+5467,,Sodupe,,43.2020301,-3.050517,,,,,Europe/Madrid,2
+5473,,Aranguren,,43.2104561,-3.108399,,,,,Europe/Madrid,2
+5484,,Mimetiz,,43.2158138,-3.1312555,,,,,Europe/Madrid,1
+5487,,TraslaviÃ±a,,43.23329,-3.198304,,,,,Europe/Madrid,2
+5489,,Artzentales,,43.2355083,-3.2133583,,,,,Europe/Madrid,2
+5493,,Villaverde de Trucios,,43.24128,-3.25054,,,,,Europe/Madrid,2
+5497,,Karrantza,,43.238854,-3.357827,,,,,Europe/Madrid,2
+5602,,Valdecilla la Marga,,43.4529465,-3.8282409,,,,,Europe/Madrid,2
+5651,,Nueva MontaÃ±a,,43.4401845,-3.8493711,,,,,Europe/Madrid,2
+5655,,MaliaÃ±o Vidriera,,43.4160163,-3.8411016,,,,,Europe/Madrid,2
+5657,,Astillero,,43.4036508,-3.8206798,,,,,Europe/Madrid,2
+5661,,Heras,,43.4008996,-3.7666376,,,,,Europe/Madrid,2
+5663,,Orejo,,43.3994776,-3.7383974,,,,,Europe/Madrid,2
+5672,,Puente AgÃ¼ero,,43.406489,-3.719342,,,,,Europe/Madrid,2
+5673,,Villaverde de Pontones,,43.411322,-3.703643,,,,,Europe/Madrid,2
+5675,,Hoz de Anero,,43.404885,-3.666883,,,,,Europe/Madrid,2
+5677,,Beranga,,43.41371,-3.57713,,,,,Europe/Madrid,2
+5679,,Gama,,43.42315,-3.52472,,,,,Europe/Madrid,2
+5681,,Cicero,,43.417052,-3.49049,,,,,Europe/Madrid,2
+5683,,Treto,,43.39409,-3.4692,,,,,Europe/Madrid,2
+5685,,Limpias,,43.35881,-3.43334,,,,,Europe/Madrid,2
+5687,,MarrÃ³n,,43.34661,-3.420918,,,,,Europe/Madrid,2
+5689,,Udalla,,43.31368,-3.44549,,,,,Europe/Madrid,2
+5691,,Gibaja,,43.28219,-3.43831,,,,,Europe/Madrid,2
+5652,,Valle Real,,43.4275399,-3.8405377,,,,,Europe/Madrid,2
+5778,,Feve-LeÃ³n,,42.6024918,-5.5749341,,,,,Europe/Madrid,2
+5803,,La AsunciÃ³n Universidad,,42.6160983,-5.5660988,,,,,Europe/Madrid,2
+5776,,San Feliz,,42.6823112,-5.5379086,,,,,Europe/Madrid,2
+5770,,Matallana,,42.841149,-5.5218718,,,,,Europe/Madrid,2
+5767,,La Vecilla,,42.8551158,-5.4121157,,,,,Europe/Madrid,2
+5766,,BoÃ±ar,,42.8627875,-5.3285261,,,,,Europe/Madrid,2
+5763,,La Ercina,,42.808848,-5.2138924,,,,,Europe/Madrid,2
+5761,,Cistierna,,42.80316,-5.1307925,,,,,Europe/Madrid,2
+5790,,Sorriba,,42.786277,-5.1274758,,,,,Europe/Madrid,2
+5760,,Valle de las Casas,,42.767772,-5.0713669,,,,,Europe/Madrid,2
+5755,,La Llama de la GuzpeÃ±a,,42.7702481,-5.0412478,,,,,Europe/Madrid,2
+5759,,Prado de la GuzpeÃ±a,,42.7832347,-5.0270973,,,,,Europe/Madrid,2
+5799,,Cerezal de la GuzpeÃ±a,,42.7797744,-5.0055719,,,,,Europe/Madrid,2
+5758,,Puente Almuhey,,42.787632,-4.9718992,,,,,Europe/Madrid,2
+5757,,Valcuende,,42.765578,-4.9292558,,,,,Europe/Madrid,2
+5756,,La Espina,,42.786856,-4.9052025,,,,,Europe/Madrid,2
+5754,,Guardo,,42.790995,-4.8519325,,,,,Europe/Madrid,2
+5753,,Guardo Apeadero,,42.7877378,-4.845133,,,,,Europe/Madrid,2
+5752,,SantibÃ¡Ã±ez de la PeÃ±a,,42.80204,-4.74145,,,,,Europe/Madrid,2
+5751,,Villaverde Tarilonte,,42.818353,-4.685419,,,,,Europe/Madrid,2
+5750,,CastrejÃ³n de la PeÃ±a,,42.81199,-4.60162,,,,,Europe/Madrid,2
+5749,,Vado-Cervera,,42.83936,-4.49477,,,,,Europe/Madrid,2
+5748,,Salinas de Pisuerga,,42.851271,-4.386209,,,,,Europe/Madrid,2
+5747,,Cillamayor,,42.857752,-4.279178,,,,,Europe/Madrid,2
+5744,,Los Carabeos,,42.910329,-4.075211,,,,,Europe/Madrid,2
+5743,,Montes Claros,,42.934323,-4.050073,,,,,Europe/Madrid,2
+5742,,Las Rozas de Valdearroyo,,42.973605,-4.029864,,,,,Europe/Madrid,2
+5741,,Llano,,42.988062,-3.982357,,,,,Europe/Madrid,2
+5740,,Arija,,42.991292,-3.945006,,,,,Europe/Madrid,2
+5739,,CabaÃ±as de Virtus,,42.996397,-3.858466,,,,,Europe/Madrid,2
+5738,,Soncillo,,43.005809,-3.844888,,,,,Europe/Madrid,2
+5737,,Robredo Ahedo,,43.019094,-3.809231,,,,,Europe/Madrid,2
+5736,,Dosante Cidad,,43.00125,-3.74525,,,,,Europe/Madrid,2
+5735,,Pedrosa,,43.012367,-3.737852,,,,,Europe/Madrid,2
+5734,,Sotoscueva,,43.045292,-3.688253,,,,,Europe/Madrid,2
+5733,,Redondo,,43.062993,-3.607895,,,,,Europe/Madrid,2
+5732,,Espinosa de los Monteros,,43.074252,-3.537116,,,,,Europe/Madrid,2
+5731,,Quintana de los Prados,,43.08,-3.51,,,,,Europe/Madrid,2
+5730,,Bercedo-Montija,,43.088479,-3.456,,,,,Europe/Madrid,2
+5727,,Cadagua,,43.068171,-3.347339,,,,,Europe/Madrid,2
+5724,,Mercadillo Villasana,,43.105209,-3.264469,,,,,Europe/Madrid,2
+5722,,Ungo Nava,,43.142894,-3.264716,,,,,Europe/Madrid,2
+5721,,Arla BerrÃ³n,,43.166699,-3.227589,,,,,Europe/Madrid,2
+5459,,Santa Ãgueda,,43.261857,-2.9730218,,,,,Europe/Madrid,2
+5460,,Kastrexana,,43.2554758,-2.9721445,,,,,Europe/Madrid,2
+5465,,La Quadra,,43.222723,-3.0249848,,,,,Europe/Madrid,2
+5469,,Artxube,,43.200993,-3.0715031,,,,,Europe/Madrid,2
+5470,,Lambarri,,43.2060733,-3.0825107,,,,,Europe/Madrid,2
+5471,,GÃ¼eÃ±es,,43.2090276,-3.0952113,,,,,Europe/Madrid,2
+5474,,Aranguren-Apeadero,,43.2103517,-3.1140505,,,,,Europe/Madrid,2
+5475,,Zalla,,43.2129096,-3.1333368,,,,,Europe/Madrid,2
+5477,,Colegio,,43.2112674,-3.1381409,,,,,Europe/Madrid,2
+5479,,Ibarra,,43.203959,-3.1448388,,,,,Europe/Madrid,2
+5481,,La Herrera,,43.2034521,-3.1705687,,,,,Europe/Madrid,2
+5483,,Balmaseda,,43.1963551,-3.1899562,,,,,Europe/Madrid,2
+7004,,Ãguilas,,37.409865,-1.5725342,,,,,Europe/Madrid,2
