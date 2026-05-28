@@ -390,8 +390,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71600,,Sant VicenÃ§ de Calders,,41.1862102,1.52480358,,,,,Europe/Madrid,2
 71503,,Torredembarra,,41.1427923,1.40578377,,,,,Europe/Madrid,1
 71502,,Altafulla-Tamarit,,41.1366479,1.37341488,,,,,Europe/Madrid,2
-71401,,Vila-Seca,,41.1128193,1.15037877,,,,,Europe/Madrid,2
-71209,,Riba-Roja D'Ebre,,41.2485594,0.48103178,,,,,Europe/Madrid,2
+71401,,Vila-seca,,41.1128193,1.15037877,,,,,Europe/Madrid,2
+71209,,Riba-roja d'Ebre,,41.2485594,0.48103178,,,,,Europe/Madrid,2
 71307,,Les Borges del Camp,,41.1665064,1.0221323,,,,,Europe/Madrid,2
 71306,,Riudecanyes-Botarell,,41.1400577,0.97574775,,,,,Europe/Madrid,2
 71305,,DuesaigÃ¼es-L'Argentera,,41.1436928,0.92087096,,,,,Europe/Madrid,2
@@ -407,7 +407,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71206,,Fabara,,41.234405,0.143284,,,,,Europe/Madrid,2
 72101,,Roda de Mar,,41.1864204,1.45520767,,,,,Europe/Madrid,2
 76004,,Valls,,41.2896079,1.25865179,,,,,Europe/Madrid,2
-73001,,Puigverd de Lleida-Artesa,,41.5537015,0.73342706,,,,,Europe/Madrid,2
+73001,,Puigverd de Lleida-Artesa de Lleida,,41.5537015,0.73342706,,,,,Europe/Madrid,2
 73002,,Juneda,,41.5439328,0.82554185,,,,,Europe/Madrid,2
 73003,,Les Borges Blanques,,41.5213973,0.87791022,,,,,Europe/Madrid,2
 73005,,Vinaixa,,41.425141,0.9703737,,,,,Europe/Madrid,2
@@ -425,7 +425,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 73101,,Alcover,,41.2616066,1.17416002,,,,,Europe/Madrid,2
 65411,,Salou-Port Aventura,,41.0884798,1.14605195,,,,,Europe/Madrid,2
 79315,,Portbou,,42.4245908,3.15801841,,,,,Europe/Madrid,1
-79009,,Barcelona-El Clot,,41.4092979,2.18719759,,,,,Europe/Madrid,2
+79009,,Barcelona El Clot,,41.4092979,2.18719759,,,,,Europe/Madrid,2
 79104,,Sant Celoni,,41.6857928,2.49072799,,,,,Europe/Madrid,2
 79200,,MaÃ§anet-Massanes,,41.7724212,2.67385865,,,,,Europe/Madrid,2
 79202,,Sils,,41.8075996,2.74500729,,,,,Europe/Madrid,2
@@ -448,7 +448,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 78201,,GraÃ±Ã©n,,41.938033,-0.369329,,,,,Europe/Madrid,2
 78005,,Villanueva de GÃ¡llego,,41.76551,-0.822204,,,,,Europe/Madrid,2
 78500,,Cervera,,41.673611,1.274773,,,,,Europe/Madrid,2
-78402,,Bell-Lloc D'Urgell,,41.631619,0.781547,,,,,Europe/Madrid,2
+78402,,Bell-lloc d'Urgell,,41.631619,0.781547,,,,,Europe/Madrid,2
 78403,,Mollerussa,,41.631779,0.896775,,,,,Europe/Madrid,2
 78404,,GolmÃ©s,,41.635929,0.930863,,,,,Europe/Madrid,2
 78405,,Castellnou de Seana,,41.637464,0.967736,,,,,Europe/Madrid,2
@@ -487,8 +487,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 79107,,Hostalric,,41.747788,2.63165011,,,,,Europe/Madrid,2
 79106,,Riells i Viabrea-Breda,,41.7263582,2.56889584,,,,,Europe/Madrid,2
 79105,,Gualba,,41.7181901,2.53878373,,,,,Europe/Madrid,2
-79100,,Granollers-Centre,,41.5997447,2.29126962,,,,,Europe/Madrid,1
-79004,,Barcelona-Sant Andreu,,41.4361251,2.19319866,,,,,Europe/Madrid,2
+79100,,Granollers Centre,,41.5997447,2.29126962,,,,,Europe/Madrid,1
+79004,,Barcelona Sant Andreu,,41.4361251,2.19319866,,,,,Europe/Madrid,2
 79316,,CerbÃ¨re,,42.441664,3.16314935,,,,,Europe/Madrid,2
 11203,,Manzanos,,42.742899,-2.867501,,,,,Europe/Madrid,2
 11204,,La Puebla de ArganzÃ³n,,42.765245,-2.830385,,,,,Europe/Madrid,2
@@ -650,11 +650,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 50200,,Santa Cruz de Mudela,,38.644428,-3.451493,,,,,Europe/Madrid,2
 60207,,El Romeral,,39.694516,-3.430502,,,,,Europe/Madrid,2
 60206,,Tembleque,,39.722958,-3.497354,,,,,Europe/Madrid,2
-65420,,L'Hospitalet de L'Infant,,40.99939,0.91253887,,,,,Europe/Madrid,2
+65420,,L'Hospitalet de l'Infant,,40.99939,0.91253887,,,,,Europe/Madrid,2
 65405,,L'Ametlla de Mar,,40.8862,0.80045321,,,,,Europe/Madrid,2
 65404,,L'Ampolla-El PerellÃ³-Deltebre,,40.8119898,0.70826336,,,,,Europe/Madrid,2
 65403,,Camarles-Deltebre,,40.7747633,0.67176095,,,,,Europe/Madrid,2
-65401,,Camp-RedÃ³,,40.7591556,0.55584433,,,,,Europe/Madrid,2
+65401,,Camp-redÃ³,,40.7591556,0.55584433,,,,,Europe/Madrid,2
 81106,,FÃ©culas-Navarra,,42.411148,-2.098196,,,,,Europe/Madrid,2
 60901,,Caudete,,38.716163,-0.959727,,,,,Europe/Madrid,2
 14101,,MonzÃ³n de Campos,,42.105538,-4.501677,,,,,Europe/Madrid,2
