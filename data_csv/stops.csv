@@ -391,16 +391,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71503,,Torredembarra,,41.1427923,1.40578377,,,,,Europe/Madrid,1
 71502,,Altafulla-Tamarit,,41.1366479,1.37341488,,,,,Europe/Madrid,2
 71401,,Vila-seca,,41.1128193,1.15037877,,,,,Europe/Madrid,2
-71209,,Riba-roja d'Ebre,,41.2485594,0.48103178,,,,,Europe/Madrid,2
-71307,,Les Borges del Camp,,41.1665064,1.0221323,,,,,Europe/Madrid,2
-71306,,Riudecanyes-Botarell,,41.1400577,0.97574775,,,,,Europe/Madrid,2
-71305,,DuesaigÃ¼es-L'Argentera,,41.1436928,0.92087096,,,,,Europe/Madrid,2
-71304,,Pradell,,41.1333595,0.85865032,,,,,Europe/Madrid,2
-71303,,MarÃ§Ã -Falset,,41.1309421,0.81041774,,,,,Europe/Madrid,2
-71302,,CapÃ§anes,,41.1020902,0.78036099,,,,,Europe/Madrid,2
-71300,,MÃ³ra la Nova,,41.1065823,0.65321819,,,,,Europe/Madrid,2
-71211,,AscÃ³,,41.1823727,0.56902524,,,,,Europe/Madrid,2
 71210,,Flix,,41.2293651,0.54010012,,,,,Europe/Madrid,2
+71211,,AscÃ³,,41.1823727,0.56902524,,,,,Europe/Madrid,2
+71300,,MÃ³ra la Nova,,41.1065823,0.65321819,,,,,Europe/Madrid,2
+71302,,CapÃ§anes,,41.1020902,0.78036099,,,,,Europe/Madrid,2
+71303,,MarÃ§Ã -Falset,,41.1309421,0.81041774,,,,,Europe/Madrid,2
+71304,,Pradell,,41.1333595,0.85865032,,,,,Europe/Madrid,2
+71305,,DuesaigÃ¼es-L'Argentera,,41.1436928,0.92087096,,,,,Europe/Madrid,2
+71306,,Riudecanyes-Botarell,,41.1400577,0.97574775,,,,,Europe/Madrid,2
+71307,,Les Borges del Camp,,41.1665064,1.0221323,,,,,Europe/Madrid,2
+71209,,Riba-roja d'Ebre,,41.2485594,0.48103178,,,,,Europe/Madrid,2
 71204,,Caspe,,41.239738,-0.042701,,,,,Europe/Madrid,2
 71208,,FaiÃ³-La Pobla de Massaluca,,41.2250555,0.35110259,,,,,Europe/Madrid,2
 71207,,Nonaspe,,41.213788,0.242472,,,,,Europe/Madrid,2
