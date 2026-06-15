@@ -421,8 +421,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 76001,,SalomÃ³,,41.2234416,1.37662504,,,,,Europe/Madrid,2
 76002,,Vilabella,,41.2395473,1.31749155,,,,,Europe/Madrid,2
 73004,,La Floresta,,41.5042013,0.924432,,,,,Europe/Madrid,2
-73102,,La Selva del Camp,,41.2111544,1.14396003,,,,,Europe/Madrid,2
 73101,,Alcover,,41.2616066,1.17416002,,,,,Europe/Madrid,2
+73102,,La Selva del Camp,,41.2111544,1.14396003,,,,,Europe/Madrid,2
 65411,,Salou-Port Aventura,,41.0884798,1.14605195,,,,,Europe/Madrid,2
 79315,,Portbou,,42.4245908,3.15801841,,,,,Europe/Madrid,1
 79009,,Barcelona El Clot,,41.4092979,2.18719759,,,,,Europe/Madrid,2
