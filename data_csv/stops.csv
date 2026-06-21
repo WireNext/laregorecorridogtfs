@@ -175,7 +175,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 87088,,Narbonne,,43.190253,3.005716,,,,,Europe/Madrid,2
 87374,,Perpignan,,42.696421,2.880381,,,,,Europe/Madrid,2
 87303,,Lyon Part Dieu,,45.760281,4.859801,,,,,Europe/Madrid,2
-87067,,Valence Ville,,44.9278984,4.8930473,,,,,Europe/Madrid,2
 87810,,Valence TGV,,44.991545,4.978703,,,,,Europe/Madrid,2
 61015,,Archena-Fortuna,,38.13132,-1.236037,,,,,Europe/Madrid,2
 61012,,Cieza,,38.246609,-1.421702,,,,,Europe/Madrid,2
