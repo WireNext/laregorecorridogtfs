@@ -432,6 +432,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 79303,,FlaÃ§Ã ,,42.047477,2.95740315,,,,,Europe/Madrid,1
 79309,,Figueres,,42.2651134,2.96880074,,,,,Europe/Madrid,1
 79312,,LlanÃ§Ã ,,42.3666194,3.1489746,,,,,Europe/Madrid,2
+71205,,Val de Pilas,,41.230056,0.070145,,,,,Europe/Madrid,2
 71201,,Samper,,41.182183,-0.368761,,,,,Europe/Madrid,2
 71200,,La Puebla de HÃ­jar,,41.2244,-0.438595,,,,,Europe/Madrid,2
 71108,,La Zaida-SÃ¡stago,,41.320542,-0.427115,,,,,Europe/Madrid,2
@@ -440,7 +441,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 70806,,Zaragoza-Portillo,,41.6527361,-0.8958759,,,,,Europe/Madrid,1
 70807,,Zaragoza-Goya,,41.6438779,-0.8912574,,,,,Europe/Madrid,2
 71100,,Zaragoza-Miraflores,,41.6334311,-0.8681653,,,,,Europe/Madrid,1
-71205,,Val de Pilas,,41.230056,0.070145,,,,,Europe/Madrid,2
 78302,,BinÃ©far,,41.849768,0.291478,,,,,Europe/Madrid,2
 78301,,MonzÃ³n-RÃ­o Cinca,,41.913679,0.196939,,,,,Europe/Madrid,2
 78203,,SariÃ±ena,,41.817529,-0.17076,,,,,Europe/Madrid,2
