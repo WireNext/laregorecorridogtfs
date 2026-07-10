@@ -404,19 +404,19 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 71206,,Fabara,,41.234405,0.143284,,,,,Europe/Madrid,2
 72101,,Roda de Mar,,41.1864204,1.45520767,,,,,Europe/Madrid,2
 76004,,Valls,,41.2896079,1.25865179,,,,,Europe/Madrid,2
-73001,,Puigverd de Lleida-Artesa de Lleida,,41.5537015,0.73342706,,,,,Europe/Madrid,2
-73002,,Juneda,,41.5439328,0.82554185,,,,,Europe/Madrid,2
-73003,,Les Borges Blanques,,41.5213973,0.87791022,,,,,Europe/Madrid,2
-73005,,Vinaixa,,41.425141,0.9703737,,,,,Europe/Madrid,2
-73006,,VimbodÃ­ i Poblet,,41.4027277,1.04603327,,,,,Europe/Madrid,2
-73007,,L'Espluga de FrancolÃ­,,41.4006616,1.10336094,,,,,Europe/Madrid,2
-73008,,Montblanc,,41.3766254,1.16554869,,,,,Europe/Madrid,2
 73100,,La Plana-Picamoixons,,41.3061987,1.19488293,,,,,Europe/Madrid,2
-73009,,Vilaverd,,41.3376633,1.17653235,,,,,Europe/Madrid,2
-73010,,La Riba,,41.3184926,1.1813126,,,,,Europe/Madrid,2
+73008,,Montblanc,,41.3766254,1.16554869,,,,,Europe/Madrid,2
+73007,,L'Espluga de FrancolÃ­,,41.4006616,1.10336094,,,,,Europe/Madrid,2
+73006,,VimbodÃ­ i Poblet,,41.4027277,1.04603327,,,,,Europe/Madrid,2
+73005,,Vinaixa,,41.425141,0.9703737,,,,,Europe/Madrid,2
+73003,,Les Borges Blanques,,41.5213973,0.87791022,,,,,Europe/Madrid,2
+73002,,Juneda,,41.5439328,0.82554185,,,,,Europe/Madrid,2
+73001,,Puigverd de Lleida-Artesa de Lleida,,41.5537015,0.73342706,,,,,Europe/Madrid,2
 76003,,Nulles-BrÃ fim,,41.2503192,1.29750259,,,,,Europe/Madrid,2
 76001,,SalomÃ³,,41.2234416,1.37662504,,,,,Europe/Madrid,2
 76002,,Vilabella,,41.2395473,1.31749155,,,,,Europe/Madrid,2
+73010,,La Riba,,41.3184926,1.1813126,,,,,Europe/Madrid,2
+73009,,Vilaverd,,41.3376633,1.17653235,,,,,Europe/Madrid,2
 73004,,La Floresta,,41.5042013,0.924432,,,,,Europe/Madrid,2
 73102,,La Selva del Camp,,41.2111544,1.14396003,,,,,Europe/Madrid,2
 73101,,Alcover,,41.2616066,1.17416002,,,,,Europe/Madrid,2
@@ -627,14 +627,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 40005,,Villafranca de los Barros,,38.564402,-6.352048,,,,,Europe/Madrid,2
 40006,,Los Santos de Maimona,,38.449724,-6.361749,,,,,Europe/Madrid,2
 40008,,Zafra Feria,,38.424403,-6.410084,,,,,Europe/Madrid,2
-50700,,Los Rosales,,37.5899718,-5.7261208,,,,,Europe/Madrid,1
-40122,,Tocina,,37.6093044,-5.7316939,,,,,Europe/Madrid,2
-40119,,Villanueva del RÃ­o-Minas,,37.6617048,-5.7121543,,,,,Europe/Madrid,2
-40115,,Pedroso,,37.8373919,-5.7624522,,,,,Europe/Madrid,2
-40113,,Cazalla-Constantina,,37.9328637,-5.704433,,,,,Europe/Madrid,2
-40108,,Guadalcanal,,38.090197,-5.803388,,,,,Europe/Madrid,2
-40107,,Fuente del Arco,,38.16353,-5.900484,,,,,Europe/Madrid,2
-40105,,Llerena,,38.237,-6.009017,,,,,Europe/Madrid,2
 11004,,Magaz,,41.976561,-4.432114,,,,,Europe/Madrid,2
 11006,,Quintana del Puente,,42.079974,-4.19858,,,,,Europe/Madrid,2
 11009,,VillaquirÃ¡n,,42.215717,-3.999396,,,,,Europe/Madrid,2
@@ -774,6 +766,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 69010,,Cocentaina,,38.740618,-0.446789,,,,,Europe/Madrid,2
 70705,,Plasencia de JalÃ³n,,41.68935,-1.234237,,,,,Europe/Madrid,2
 70704,,Rueda de JalÃ³n-Lumpiaque,,41.638892,-1.281667,,,,,Europe/Madrid,2
+50700,,Los Rosales,,37.5899718,-5.7261208,,,,,Europe/Madrid,1
+40122,,Tocina,,37.6093044,-5.7316939,,,,,Europe/Madrid,2
+40119,,Villanueva del RÃ­o-Minas,,37.6617048,-5.7121543,,,,,Europe/Madrid,2
+40115,,Pedroso,,37.8373919,-5.7624522,,,,,Europe/Madrid,2
+40113,,Cazalla-Constantina,,37.9328637,-5.704433,,,,,Europe/Madrid,2
+40108,,Guadalcanal,,38.090197,-5.803388,,,,,Europe/Madrid,2
+40105,,Llerena,,38.237,-6.009017,,,,,Europe/Madrid,2
+40107,,Fuente del Arco,,38.16353,-5.900484,,,,,Europe/Madrid,2
 5193,,Ribadeo,,43.53607,-7.055572,,,,,Europe/Madrid,2
 5102,,San XoÃ¡n,,43.4945654,-8.2142733,,,,,Europe/Madrid,2
 5104,,Virxe Do Mar,,43.4965254,-8.2048752,,,,,Europe/Madrid,2
