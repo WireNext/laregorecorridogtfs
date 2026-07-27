@@ -493,16 +493,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11210,,AlegrÃ­a-Dulantzi,,42.848723,-2.514668,,,,,Europe/Madrid,2
 11212,,Agurain-Salvatierra de Ãlava,,42.84643,-2.38921,,,,,Europe/Madrid,2
 11213,,Araia,,42.869599,-2.306807,,,,,Europe/Madrid,2
-11404,,Beasain,,43.0462687,-2.2022994,,,,,Europe/Madrid,2
-11504,,Andoain-Centro,,43.2155738,-2.0204595,,,,,Europe/Madrid,2
-11516,,Lezo-RenterÃ­a,,43.3159364,-1.8994386,,,,,Europe/Madrid,2
-11515,,Pasaia,,43.3189428,-1.9171727,,,,,Europe/Madrid,2
 11305,,Brinkola,,43.0189865,-2.3346811,,,,,Europe/Madrid,2
 11306,,Legazpi,,43.0510385,-2.3306103,,,,,Europe/Madrid,2
 11402,,OrmÃ¡iztegui,,43.0402752,-2.256462,,,,,Europe/Madrid,2
+11404,,Beasain,,43.0462687,-2.2022994,,,,,Europe/Madrid,2
 11405,,Ordizia,,43.0527547,-2.1791923,,,,,Europe/Madrid,2
 11501,,Tolosa-Centro,,43.1393963,-2.0741122,,,,,Europe/Madrid,2
 11503,,Billabona-Zizurkil,,43.1891906,-2.0553722,,,,,Europe/Madrid,2
+11504,,Andoain-Centro,,43.2155738,-2.0204595,,,,,Europe/Madrid,2
+11516,,Lezo-RenterÃ­a,,43.3159364,-1.8994386,,,,,Europe/Madrid,2
+11515,,Pasaia,,43.3189428,-1.9171727,,,,,Europe/Madrid,2
 81205,,Cortes de Navarra,,41.915076,-1.420439,,,,,Europe/Madrid,2
 81203,,Ribaforada,,41.997038,-1.515097,,,,,Europe/Madrid,2
 80115,,Villafranca de Navarra,,42.280734,-1.745716,,,,,Europe/Madrid,2
