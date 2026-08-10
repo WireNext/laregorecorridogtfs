@@ -770,54 +770,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 40108,,Guadalcanal,,38.090197,-5.803388,,,,,Europe/Madrid,2
 40105,,Llerena,,38.237,-6.009017,,,,,Europe/Madrid,2
 40107,,Fuente del Arco,,38.16353,-5.900484,,,,,Europe/Madrid,2
-5325,,Pravia,,43.4908983,-6.1105373,,,,,Europe/Madrid,2
-5203,,TremaÃ±es CarreÃ±o,,43.5285524,-5.6948835,,,,,Europe/Madrid,2
-5204,,Centro de Transportes,,43.5311295,-5.7067165,,,,,Europe/Madrid,2
-15400,,VeriÃ±a,,43.5415755,-5.722797,,,,,Europe/Madrid,2
-5207,,AboÃ±o Apeadero,,43.555049,-5.7236039,,,,,Europe/Madrid,2
-5208,,Xivares,,43.5659387,-5.7287459,,,,,Europe/Madrid,2
-5209,,Perlora,,43.5808632,-5.7541047,,,,,Europe/Madrid,2
-5210,,CandÃ¡s-Apeadero,,43.586538,-5.7679715,,,,,Europe/Madrid,2
-5211,,CandÃ¡s,,43.5847107,-5.7726902,,,,,Europe/Madrid,2
-5213,,Regueral,,43.5805017,-5.797616,,,,,Europe/Madrid,2
-5215,,ZanzabornÃ­n,,43.5689267,-5.825312,,,,,Europe/Madrid,2
-5216,,GudÃ­n LaminaciÃ³n,,43.5522931,-5.8653924,,,,,Europe/Madrid,2
-5217,,Trasona,,43.5517694,-5.8741747,,,,,Europe/Madrid,2
-5219,,Llaranes,,43.5543366,-5.8965567,,,,,Europe/Madrid,2
-5221,,AvilÃ©s-Apeadero,,43.5546343,-5.9174416,,,,,Europe/Madrid,2
-5220,,CristalerÃ­a,,43.5755676,-5.9292414,,,,,Europe/Madrid,2
-5224,,RaÃ­ces,,43.5763492,-5.9399127,,,,,Europe/Madrid,2
-5225,,Salinas,,43.5703913,-5.9566256,,,,,Europe/Madrid,2
-5227,,Piedras Blancas,,43.5565567,-5.9755523,,,,,Europe/Madrid,2
-5229,,Vegarrozadas,,43.5511613,-5.995514,,,,,Europe/Madrid,2
-5231,,Santiago del Monte,,43.5409241,-6.027971,,,,,Europe/Madrid,2
-5232,,El Parador,,43.5351412,-6.0705907,,,,,Europe/Madrid,2
-5233,,Soto del Barco,,43.5290556,-6.0712934,,,,,Europe/Madrid,2
-5235,,Riberas,,43.5027396,-6.0743054,,,,,Europe/Madrid,2
-5237,,PeÃ±aullÃ¡n,,43.4911696,-6.0939642,,,,,Europe/Madrid,2
-5245,,Cudillero,,43.5509259,-6.1519305,,,,,Europe/Madrid,2
-5244,,El Pito PiÃ±era,,43.5469091,-6.1433417,,,,,Europe/Madrid,2
-5243,,Muros del NalÃ³n,,43.5429728,-6.1110718,,,,,Europe/Madrid,2
-5241,,Los Cabos,,43.5124147,-6.0974746,,,,,Europe/Madrid,2
-5239,,Santianes,,43.503799,-6.0918391,,,,,Europe/Madrid,2
-5329,,San Esteban,,43.552094,-6.0872393,,,,,Europe/Madrid,2
-5327,,San RanÃ³n,,43.5164547,-6.0820305,,,,,Europe/Madrid,2
-5311,,Trubia,,43.34857,-5.9677756,,,,,Europe/Madrid,2
-5300,,VallobÃ­n,,43.3652306,-5.8647984,,,,,Europe/Madrid,2
-5301,,ArgaÃ±osa-LavapiÃ©s,,43.3658311,-5.870018,,,,,Europe/Madrid,2
-5302,,Las Campas,,43.3638889,-5.8833728,,,,,Europe/Madrid,2
-5303,,Las Mazas,,43.3587192,-5.8975568,,,,,Europe/Madrid,2
-5304,,San Claudio,,43.3553535,-5.9178091,,,,,Europe/Madrid,2
-5306,,San Pedro de Nora,,43.3687481,-5.9585951,,,,,Europe/Madrid,2
-5308,,Soto UdriÃ³n,,43.3564364,-5.9650157,,,,,Europe/Madrid,2
-5313,,Santa MarÃ­a de Grado,,43.3842274,-5.9827075,,,,,Europe/Madrid,2
-5315,,Vega de Anzo,,43.38933,-6.0056834,,,,,Europe/Madrid,2
-5316,,PeÃ±aflor de Grado,,43.4029267,-6.0453921,,,,,Europe/Madrid,2
-5317,,Grado,,43.3945424,-6.0637254,,,,,Europe/Madrid,2
-5319,,Sandiche,,43.4256226,-6.0599341,,,,,Europe/Madrid,2
-5320,,Aces,,43.4399142,-6.0657983,,,,,Europe/Madrid,2
-5321,,San RomÃ¡n,,43.4488839,-6.0771641,,,,,Europe/Madrid,2
-5323,,Beifar,,43.4701379,-6.0988707,,,,,Europe/Madrid,2
 5193,,Ribadeo,,43.53607,-7.055572,,,,,Europe/Madrid,2
 5102,,San XoÃ¡n,,43.4945654,-8.2142733,,,,,Europe/Madrid,2
 5104,,Virxe Do Mar,,43.4965254,-8.2048752,,,,,Europe/Madrid,2
@@ -869,6 +821,25 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5187,,Esteiro,,43.551697,-7.146099,,,,,Europe/Madrid,2
 5189,,Os Castros,,43.55157,-7.130895,,,,,Europe/Madrid,2
 5191,,Rinlo,,43.549761,-7.108645,,,,,Europe/Madrid,2
+5300,,VallobÃ­n,,43.3652306,-5.8647984,,,,,Europe/Madrid,2
+5301,,ArgaÃ±osa-LavapiÃ©s,,43.3658311,-5.870018,,,,,Europe/Madrid,2
+5302,,Las Campas,,43.3638889,-5.8833728,,,,,Europe/Madrid,2
+5303,,Las Mazas,,43.3587192,-5.8975568,,,,,Europe/Madrid,2
+5304,,San Claudio,,43.3553535,-5.9178091,,,,,Europe/Madrid,2
+5306,,San Pedro de Nora,,43.3687481,-5.9585951,,,,,Europe/Madrid,2
+5308,,Soto UdriÃ³n,,43.3564364,-5.9650157,,,,,Europe/Madrid,2
+5311,,Trubia,,43.34857,-5.9677756,,,,,Europe/Madrid,2
+5313,,Santa MarÃ­a de Grado,,43.3842274,-5.9827075,,,,,Europe/Madrid,2
+5315,,Vega de Anzo,,43.38933,-6.0056834,,,,,Europe/Madrid,2
+5316,,PeÃ±aflor de Grado,,43.4029267,-6.0453921,,,,,Europe/Madrid,2
+5317,,Grado,,43.3945424,-6.0637254,,,,,Europe/Madrid,2
+5319,,Sandiche,,43.4256226,-6.0599341,,,,,Europe/Madrid,2
+5320,,Aces,,43.4399142,-6.0657983,,,,,Europe/Madrid,2
+5321,,San RomÃ¡n,,43.4488839,-6.0771641,,,,,Europe/Madrid,2
+5323,,Beifar,,43.4701379,-6.0988707,,,,,Europe/Madrid,2
+5325,,Pravia,,43.4908983,-6.1105373,,,,,Europe/Madrid,2
+5243,,Muros del NalÃ³n,,43.5429728,-6.1110718,,,,,Europe/Madrid,2
+5245,,Cudillero,,43.5509259,-6.1519305,,,,,Europe/Madrid,2
 5249,,La Magdalena,,43.559309,-6.184922,,,,,Europe/Madrid,2
 5251,,San MartÃ­n de LuiÃ±a,,43.544753,-6.228702,,,,,Europe/Madrid,2
 5255,,Soto de LuiÃ±a,,43.559635,-6.234369,,,,,Europe/Madrid,2
@@ -887,6 +858,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5293,,Tapia,,43.535026,-6.909329,,,,,Europe/Madrid,2
 5299,,Castropol,,43.5095861,-7.0147697,,,,,Europe/Madrid,2
 5197,,Vegadeo Pueblo,,43.479667,-7.057327,,,,,Europe/Madrid,2
+5239,,Santianes,,43.503799,-6.0918391,,,,,Europe/Madrid,2
+5241,,Los Cabos,,43.5124147,-6.0974746,,,,,Europe/Madrid,2
+5244,,El Pito PiÃ±era,,43.5469091,-6.1433417,,,,,Europe/Madrid,2
 5247,,Villademar,,43.557065,-6.155477,,,,,Europe/Madrid,2
 5253,,San Cosme,,43.544069,-6.248091,,,,,Europe/Madrid,2
 5257,,Valdredo,,43.56638,-6.263234,,,,,Europe/Madrid,2
