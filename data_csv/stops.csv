@@ -179,26 +179,27 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 61015,,Archena-Fortuna,,38.13132,-1.236037,,,,,Europe/Madrid,2
 61012,,Cieza,,38.246609,-1.421702,,,,,Europe/Madrid,2
 61005,,HellÃ­n,,38.508776,-1.688437,,,,,Europe/Madrid,2
-15401,,Calzada de Asturias,,43.5353848,-5.6971507,,,,,Europe/Madrid,2
-15218,,Llamaquique,,43.3588282,-5.8573201,,,,,Europe/Madrid,1
-15200,,Ujo,,43.2046962,-5.7926422,,,,,Europe/Madrid,1
-15120,,Campomanes,,43.1100681,-5.8164466,,,,,Europe/Madrid,2
-15118,,Puente de los Fierros,,43.0715986,-5.769465,,,,,Europe/Madrid,2
-15116,,Linares-Congostinas,,43.101743,-5.772162,,,,,Europe/Madrid,2
-15113,,Busdongo,,42.984495,-5.705391,,,,,Europe/Madrid,2
-15112,,VillamanÃ­n,,42.93671,-5.657637,,,,,Europe/Madrid,2
-15109,,Santa LucÃ­a,,42.87515,-5.639613,,,,,Europe/Madrid,2
-15108,,La Pola de GordÃ³n,,42.854099,-5.674524,,,,,Europe/Madrid,2
-15106,,La Robla,,42.804454,-5.626255,,,,,Europe/Madrid,2
-15015,,Palanquinos,,42.460716,-5.497584,,,,,Europe/Madrid,2
-15012,,El Burgo Ranero,,42.425753,-5.208592,,,,,Europe/Madrid,2
-15009,,SahagÃºn,,42.369329,-5.022667,,,,,Europe/Madrid,1
-15008,,Grajal,,42.323246,-5.013381,,,,,Europe/Madrid,2
-15007,,Villada,,42.245238,-4.970589,,,,,Europe/Madrid,2
-15004,,Paredes de Nava,,42.150694,-4.697599,,,,,Europe/Madrid,2
-11000,,Venta de BaÃ±os,,41.91736,-4.495844,,,,,Europe/Madrid,2
-10605,,DueÃ±as,,41.87048,-4.541216,,,,,Europe/Madrid,2
 10602,,CabezÃ³n del Pisuerga,,41.737276,-4.651294,,,,,Europe/Madrid,2
+10605,,DueÃ±as,,41.87048,-4.541216,,,,,Europe/Madrid,2
+11000,,Venta de BaÃ±os,,41.91736,-4.495844,,,,,Europe/Madrid,2
+15001,,Grijota,,42.049225,-4.583954,,,,,Europe/Madrid,2
+15004,,Paredes de Nava,,42.150694,-4.697599,,,,,Europe/Madrid,2
+15007,,Villada,,42.245238,-4.970589,,,,,Europe/Madrid,2
+15008,,Grajal,,42.323246,-5.013381,,,,,Europe/Madrid,2
+15009,,SahagÃºn,,42.369329,-5.022667,,,,,Europe/Madrid,1
+15012,,El Burgo Ranero,,42.425753,-5.208592,,,,,Europe/Madrid,2
+15015,,Palanquinos,,42.460716,-5.497584,,,,,Europe/Madrid,2
+15106,,La Robla,,42.804454,-5.626255,,,,,Europe/Madrid,2
+15108,,La Pola de GordÃ³n,,42.854099,-5.674524,,,,,Europe/Madrid,2
+15109,,Santa LucÃ­a,,42.87515,-5.639613,,,,,Europe/Madrid,2
+15112,,VillamanÃ­n,,42.93671,-5.657637,,,,,Europe/Madrid,2
+15113,,Busdongo,,42.984495,-5.705391,,,,,Europe/Madrid,2
+15116,,Linares-Congostinas,,43.101743,-5.772162,,,,,Europe/Madrid,2
+15118,,Puente de los Fierros,,43.0715986,-5.769465,,,,,Europe/Madrid,2
+15120,,Campomanes,,43.1100681,-5.8164466,,,,,Europe/Madrid,2
+15200,,Ujo,,43.2046962,-5.7926422,,,,,Europe/Madrid,1
+15218,,Llamaquique,,43.3588282,-5.8573201,,,,,Europe/Madrid,1
+15401,,Calzada de Asturias,,43.5353848,-5.6971507,,,,,Europe/Madrid,2
 10610,,Valladolid Universidad,,41.660257,-4.704037,,,,,Europe/Madrid,2
 22300,,Redondela,,42.286005,-8.619402,,,,,Europe/Madrid,2
 23000,,Redondela-Picota,,42.286866,-8.607118,,,,,Europe/Madrid,2
@@ -217,7 +218,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 20007,,Nistal,,42.424462,-6.00803,,,,,Europe/Madrid,2
 20103,,Porqueros,,42.598935,-6.108238,,,,,Europe/Madrid,2
 20106,,La Granja,,42.614874,-6.282495,,,,,Europe/Madrid,2
-15001,,Grijota,,42.049225,-4.583954,,,,,Europe/Madrid,2
 15003,,Becerril,,42.104706,-4.64712,,,,,Europe/Madrid,2
 22201,,O PorriÃ±o,,42.16419,-8.62202,,,,,Europe/Madrid,2
 22200,,Guillarei,,42.065663,-8.62253,,,,,Europe/Madrid,2
