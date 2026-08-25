@@ -617,9 +617,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 37400,,AlmorchÃ³n,,38.696631,-5.290496,,,,,Europe/Madrid,2
 37402,,Castuera,,38.735021,-5.541637,,,,,Europe/Madrid,2
 37404,,Campanario,,38.853395,-5.641415,,,,,Europe/Madrid,2
-40002,,Calamonte,,38.886931,-6.382965,,,,,Europe/Madrid,2
 40004,,Almendralejo,,38.684662,-6.399815,,,,,Europe/Madrid,2
 40005,,Villafranca de los Barros,,38.564402,-6.352048,,,,,Europe/Madrid,2
+40002,,Calamonte,,38.886931,-6.382965,,,,,Europe/Madrid,2
 40006,,Los Santos de Maimona,,38.449724,-6.361749,,,,,Europe/Madrid,2
 40008,,Zafra Feria,,38.424403,-6.410084,,,,,Europe/Madrid,2
 11004,,Magaz,,41.976561,-4.432114,,,,,Europe/Madrid,2
