@@ -716,6 +716,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 70405,,Monreal de Ariza,,41.298767,-2.110448,,,,,Europe/Madrid,2
 70404,,Santa MarÃ­a de Huerta,,41.264421,-2.177525,,,,,Europe/Madrid,2
 70503,,Bubierca,,41.31719,-1.855198,,,,,Europe/Madrid,2
+50700,,Los Rosales,,37.5899718,-5.7261208,,,,,Europe/Madrid,1
+40122,,Tocina,,37.6093044,-5.7316939,,,,,Europe/Madrid,2
+40119,,Villanueva del RÃ­o-Minas,,37.6617048,-5.7121543,,,,,Europe/Madrid,2
+40115,,Pedroso,,37.8373919,-5.7624522,,,,,Europe/Madrid,2
+40113,,Cazalla-Constantina,,37.9328637,-5.704433,,,,,Europe/Madrid,2
+40108,,Guadalcanal,,38.090197,-5.803388,,,,,Europe/Madrid,2
+40107,,Fuente del Arco,,38.16353,-5.900484,,,,,Europe/Madrid,2
+40105,,Llerena,,38.237,-6.009017,,,,,Europe/Madrid,2
 34010,,PeÃ±aranda de Bracamonte,,40.898138,-5.206361,,,,,Europe/Madrid,2
 34014,,Aldealengua,,40.97989,-5.552951,,,,,Europe/Madrid,2
 34013,,San Morales,,40.984243,-5.492955,,,,,Europe/Madrid,2
@@ -759,14 +767,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 69010,,Cocentaina,,38.740618,-0.446789,,,,,Europe/Madrid,2
 70705,,Plasencia de JalÃ³n,,41.68935,-1.234237,,,,,Europe/Madrid,2
 70704,,Rueda de JalÃ³n-Lumpiaque,,41.638892,-1.281667,,,,,Europe/Madrid,2
-50700,,Los Rosales,,37.5899718,-5.7261208,,,,,Europe/Madrid,1
-40122,,Tocina,,37.6093044,-5.7316939,,,,,Europe/Madrid,2
-40119,,Villanueva del RÃ­o-Minas,,37.6617048,-5.7121543,,,,,Europe/Madrid,2
-40115,,Pedroso,,37.8373919,-5.7624522,,,,,Europe/Madrid,2
-40113,,Cazalla-Constantina,,37.9328637,-5.704433,,,,,Europe/Madrid,2
-40108,,Guadalcanal,,38.090197,-5.803388,,,,,Europe/Madrid,2
-40105,,Llerena,,38.237,-6.009017,,,,,Europe/Madrid,2
-40107,,Fuente del Arco,,38.16353,-5.900484,,,,,Europe/Madrid,2
 5193,,Ribadeo,,43.53607,-7.055572,,,,,Europe/Madrid,2
 5102,,San XoÃ¡n,,43.4945654,-8.2142733,,,,,Europe/Madrid,2
 5104,,Virxe Do Mar,,43.4965254,-8.2048752,,,,,Europe/Madrid,2
