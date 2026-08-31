@@ -642,21 +642,21 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 65401,,Camp-redÃ³,,40.7591556,0.55584433,,,,,Europe/Madrid,2
 81106,,FÃ©culas-Navarra,,42.411148,-2.098196,,,,,Europe/Madrid,2
 60901,,Caudete,,38.716163,-0.959727,,,,,Europe/Madrid,2
-14117,,El CarriÃ³n,,42.1166417,-4.500692,,,,,Europe/Madrid,2
-14103,,PiÃ±a,,42.211747,-4.434689,,,,,Europe/Madrid,2
-14104,,FrÃ³mista,,42.2649,-4.402433,,,,,Europe/Madrid,2
-14107,,Osorno,,42.415077,-4.357367,,,,,Europe/Madrid,2
-14108,,Espinosa de Villagonzalo,,42.452373,-4.367811,,,,,Europe/Madrid,2
-14111,,Herrera de Pisuerga,,42.598477,-4.316683,,,,,Europe/Madrid,2
-14112,,Alar del Rey,,42.656837,-4.311372,,,,,Europe/Madrid,2
-14200,,Mataporquera,,42.870901,-4.165406,,,,,Europe/Madrid,2
-14206,,BÃ¡rcena,,43.1287054,-4.053473,,,,,Europe/Madrid,2
-14210,,Los Corrales de Buelna,,43.2551009,-4.0639472,,,,,Europe/Madrid,2
-10604,,Cubillas de Santa Marta,,41.808861,-4.579754,,,,,Europe/Madrid,2
-10603,,Corcos-Aguilarejo,,41.766446,-4.623485,,,,,Europe/Madrid,2
 14230,,Valdecilla,,43.4540888,-3.8277628,,,,,Europe/Madrid,2
 14220,,MaliaÃ±o,,43.4161415,-3.8410762,,,,,Europe/Madrid,2
 14216,,Renedo,,43.3531069,-3.9496471,,,,,Europe/Madrid,2
+14210,,Los Corrales de Buelna,,43.2551009,-4.0639472,,,,,Europe/Madrid,2
+14206,,BÃ¡rcena,,43.1287054,-4.053473,,,,,Europe/Madrid,2
+14200,,Mataporquera,,42.870901,-4.165406,,,,,Europe/Madrid,2
+14112,,Alar del Rey,,42.656837,-4.311372,,,,,Europe/Madrid,2
+14111,,Herrera de Pisuerga,,42.598477,-4.316683,,,,,Europe/Madrid,2
+14108,,Espinosa de Villagonzalo,,42.452373,-4.367811,,,,,Europe/Madrid,2
+14107,,Osorno,,42.415077,-4.357367,,,,,Europe/Madrid,2
+14104,,FrÃ³mista,,42.2649,-4.402433,,,,,Europe/Madrid,2
+14103,,PiÃ±a,,42.211747,-4.434689,,,,,Europe/Madrid,2
+14117,,El CarriÃ³n,,42.1166417,-4.500692,,,,,Europe/Madrid,2
+10603,,Corcos-Aguilarejo,,41.766446,-4.623485,,,,,Europe/Madrid,2
+10604,,Cubillas de Santa Marta,,41.808861,-4.579754,,,,,Europe/Madrid,2
 14113,,Mave,,42.723726,-4.27616,,,,,Europe/Madrid,2
 14115,,Quintanilla de las Torres,,42.81903,-4.202753,,,,,Europe/Madrid,2
 15006,,Cisneros,,42.19112,-4.850249,,,,,Europe/Madrid,2
