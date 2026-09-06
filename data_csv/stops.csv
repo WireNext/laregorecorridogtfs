@@ -12,15 +12,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 18000,,Madrid-Atocha CercanÃ­as,,40.4066191,-3.6894391,,,,,Europe/Madrid,1
 35001,,LeganÃ©s,,40.328643,-3.7713161,,,,,Europe/Madrid,2
 30002,,Plasencia,,40.022282,-6.099397,,,,,Europe/Madrid,2
-56312,,AlmerÃ­a,,36.834951,-2.455519,,,,,Europe/Madrid,1
-56310,,Huercal-Viator,,36.885155,-2.436718,,,,,Europe/Madrid,2
-56200,,Guadix,,37.316873,-3.127209,,,,,Europe/Madrid,2
-56100,,Moreda,,37.431216,-3.310516,,,,,Europe/Madrid,2
-56009,,Cabra del Santo Cristo y AlicÃºn,,37.6567129,-3.262623,,,,,Europe/Madrid,2
-56004,,JÃ³dar-Ãbeda,,37.913343,-3.34892,,,,,Europe/Madrid,2
-50300,,Linares-Baeza,,38.068864,-3.589396,,,,,Europe/Madrid,1
-50207,,Vilches,,38.215742,-3.517576,,,,,Europe/Madrid,2
-60400,,AlcÃ¡zar de San Juan,,39.395628,-3.205744,,,,,Europe/Madrid,1
 11200,,Miranda de Ebro,,42.691024,-2.940366,,,,,Europe/Madrid,1
 13200,,Bilbao-Intermod. Abando Indalecio Prieto,,43.2601304,-2.9285592,,,,,Europe/Madrid,1
 13106,,Llodio,,43.1423514,-2.9606511,,,,,Europe/Madrid,2
@@ -86,8 +77,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 60600,,Albacete-Los Llanos,,38.999384,-1.84845,,,,,Europe/Madrid,1
 60500,,Villarrobledo,,39.260868,-2.598621,,,,,Europe/Madrid,2
 60406,,SocuÃ©llamos,,39.278776,-2.775571,,,,,Europe/Madrid,2
+60400,,AlcÃ¡zar de San Juan,,39.395628,-3.205744,,,,,Europe/Madrid,1
 50100,,Manzanares,,39.005837,-3.370507,,,,,Europe/Madrid,2
 50102,,ValdepeÃ±as,,38.762868,-3.39572,,,,,Europe/Madrid,2
+50207,,Vilches,,38.215742,-3.517576,,,,,Europe/Madrid,2
+50300,,Linares-Baeza,,38.068864,-3.589396,,,,,Europe/Madrid,1
 81110,,Alfaro,,42.186525,-1.747985,,,,,Europe/Madrid,2
 81109,,RincÃ³n de Soto,,42.230011,-1.847473,,,,,Europe/Madrid,2
 60911,,Alicante/Alacant-Terminal,,38.3447127,-0.4955241,,,,,Europe/Madrid,1
@@ -122,6 +116,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 51406,,San Fernando-BahÃ­a Sur,,36.4680834,-6.2067676,,,,,Europe/Madrid,1
 51400,,Puerto de Santa MarÃ­a,,36.6040723,-6.2179261,,,,,Europe/Madrid,1
 51300,,Jerez de la Frontera,,36.680022,-6.1266032,,,,,Europe/Madrid,1
+56312,,AlmerÃ­a,,36.834951,-2.455519,,,,,Europe/Madrid,1
+56200,,Guadix,,37.316873,-3.127209,,,,,Europe/Madrid,2
+56310,,Huercal-Viator,,36.885155,-2.436718,,,,,Europe/Madrid,2
 43019,,Huelva,,37.2525922,-6.9448154,,,,,Europe/Madrid,1
 43011,,La Palma del Condado,,37.390665,-6.554444,,,,,Europe/Madrid,1
 74200,,Huesca,,42.133594,-0.409745,,,,,Europe/Madrid,1
@@ -625,9 +622,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 60505,,La Roda de Albacete,,39.199594,-2.162547,,,,,Europe/Madrid,2
 60503,,Minaya,,39.240738,-2.348403,,,,,Europe/Madrid,2
 60402,,Campo de Criptana,,39.394343,-3.117746,,,,,Europe/Madrid,2
-3001,,MengÃ­bar-Artichuela,,37.978219,-3.803308,,,,,Europe/Madrid,2
 50202,,Almuradiel-Viso del MarquÃ©s,,38.514267,-3.501935,,,,,Europe/Madrid,2
 50200,,Santa Cruz de Mudela,,38.644428,-3.451493,,,,,Europe/Madrid,2
+3001,,MengÃ­bar-Artichuela,,37.978219,-3.803308,,,,,Europe/Madrid,2
 60207,,El Romeral,,39.694516,-3.430502,,,,,Europe/Madrid,2
 60206,,Tembleque,,39.722958,-3.497354,,,,,Europe/Madrid,2
 65420,,L'Hospitalet de l'Infant,,40.99939,0.91253887,,,,,Europe/Madrid,2
@@ -753,6 +750,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 70604,,SabiÃ±Ã¡n,,41.443981,-1.571474,,,,,Europe/Madrid,2
 70602,,Embid de JalÃ³n,,41.421676,-1.592127,,,,,Europe/Madrid,2
 70603,,Paracuellos-SabiÃ±Ã¡n,,41.42931,-1.567483,,,,,Europe/Madrid,2
+56100,,Moreda,,37.431216,-3.310516,,,,,Europe/Madrid,2
+56009,,Cabra del Santo Cristo y AlicÃºn,,37.6567129,-3.262623,,,,,Europe/Madrid,2
+56004,,JÃ³dar-Ãbeda,,37.913343,-3.34892,,,,,Europe/Madrid,2
 69001,,GenovÃ©s,,38.98773,-0.47988,,,,,Europe/Madrid,2
 69003,,La Pobla del Duc,,38.907606,-0.453386,,,,,Europe/Madrid,2
 69004,,Montaberner,,38.884135,-0.491619,,,,,Europe/Madrid,2
