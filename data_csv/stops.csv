@@ -167,10 +167,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 87089,,Marseille St Charles,,43.30349,5.382236,,,,,Europe/Madrid,2
 87912,,Aix en Provence TGV,,43.455268,5.31723,,,,,Europe/Madrid,2
 87814,,Avignon TGV,,43.921938,4.785813,,,,,Europe/Madrid,2
-87302,,Nimes,,43.832291,4.365845,,,,,Europe/Madrid,2
 87101,,Nimes Pont Du Gard,,43.8168789,4.3617439,,,,,Europe/Madrid,2
-87173,,Montpellier Saint-Roch,,43.604852,3.880491,,,,,Europe/Madrid,2
+87302,,Nimes,,43.832291,4.365845,,,,,Europe/Madrid,2
 87100,,Montpellier Sud de France,,43.5951821,3.9216961,,,,,Europe/Madrid,2
+87173,,Montpellier Saint-Roch,,43.604852,3.880491,,,,,Europe/Madrid,2
 87088,,Narbonne,,43.190253,3.005716,,,,,Europe/Madrid,2
 87374,,Perpignan,,42.696421,2.880381,,,,,Europe/Madrid,2
 87303,,Lyon Part Dieu,,45.760281,4.859801,,,,,Europe/Madrid,2
