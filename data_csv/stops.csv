@@ -497,6 +497,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11504,,Andoain-Centro,,43.2155738,-2.0204595,,,,,Europe/Madrid,2
 11516,,Lezo-RenterÃ­a,,43.3159364,-1.8994386,,,,,Europe/Madrid,1
 11515,,Pasaia,,43.3189428,-1.9171727,,,,,Europe/Madrid,2
+11507,,Hernani-Erdia,,43.2664779,-1.9726232,,,,,Europe/Madrid,1
 81205,,Cortes de Navarra,,41.915076,-1.420439,,,,,Europe/Madrid,2
 81203,,Ribaforada,,41.997038,-1.515097,,,,,Europe/Madrid,2
 80115,,Villafranca de Navarra,,42.280734,-1.745716,,,,,Europe/Madrid,2
@@ -621,7 +622,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11004,,Magaz,,41.976561,-4.432114,,,,,Europe/Madrid,2
 11006,,Quintana del Puente,,42.079974,-4.19858,,,,,Europe/Madrid,2
 11009,,VillaquirÃ¡n,,42.215717,-3.999396,,,,,Europe/Madrid,2
-11507,,Hernani-Erdia,,43.2664779,-1.9726232,,,,,Europe/Madrid,1
 60507,,La Gineta,,39.111665,-2.000155,,,,,Europe/Madrid,2
 60505,,La Roda de Albacete,,39.199594,-2.162547,,,,,Europe/Madrid,2
 60503,,Minaya,,39.240738,-2.348403,,,,,Europe/Madrid,2
