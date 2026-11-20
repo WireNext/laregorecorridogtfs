@@ -289,6 +289,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 51202,,Las Cabezas de San Juan,,37.0194897,-5.94658,,,,,Europe/Madrid,1
 51409,,CÃ¡diz-Estadio,,36.5029461,-6.2720644,,,,,Europe/Madrid,1
 51404,,Segunda Aguada,,36.5135317,-6.2770128,,,,,Europe/Madrid,1
+50407,,Villa del RÃ­o,,37.981331,-4.283788,,,,,Europe/Madrid,2
+50403,,AndÃºjar,,38.028225,-4.066036,,,,,Europe/Madrid,2
+50400,,EspelÃºy,,38.010247,-3.832726,,,,,Europe/Madrid,2
 43021,,San Juan del Puerto,,37.311898,-6.841076,,,,,Europe/Madrid,2
 43015,,Niebla-Puerta del Buey,,37.3587619,-6.6812578,,,,,Europe/Madrid,2
 43009,,Escacena,,37.397812,-6.39198,,,,,Europe/Madrid,2
@@ -315,9 +318,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 50417,,Campus Universitario de Rabanales,,37.91256,-4.72086,,,,,Europe/Madrid,1
 50501,,El HiguerÃ³n,,37.870271,-4.838942,,,,,Europe/Madrid,2
 50502,,Villarrubia de CÃ³rdoba,,37.847574,-4.915339,,,,,Europe/Madrid,2
-50407,,Villa del RÃ­o,,37.981331,-4.283788,,,,,Europe/Madrid,2
-50403,,AndÃºjar,,38.028225,-4.066036,,,,,Europe/Madrid,2
-50400,,EspelÃºy,,38.010247,-3.832726,,,,,Europe/Madrid,2
 54405,,Ãlora,,36.8198747,-4.6996105,,,,,Europe/Madrid,1
 54400,,Bobadilla,,37.037073,-4.727942,,,,,Europe/Madrid,1
 1009,,Pedrera,,37.222396,-4.893519,,,,,Europe/Madrid,2
