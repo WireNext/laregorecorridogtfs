@@ -41,6 +41,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 65300,,CastellÃ³ de la Plana,,39.9884736,-0.0523456,,,,,Europe/Madrid,1
 80100,,Pamplona/IruÃ±a,,42.824877,-1.661419,,,,,Europe/Madrid,1
 80108,,Tafalla,,42.525756,-1.671467,,,,,Europe/Madrid,2
+11600,,Irun,,43.3395365,-1.8012519,,,,,Europe/Madrid,1
 20309,,Lugo,,43.015222,-7.552176,,,,,Europe/Madrid,1
 22100,,Ourense,,42.350389,-7.872777,,,,,Europe/Madrid,1
 20300,,Monforte de Lemos,,42.529682,-7.503589,,,,,Europe/Madrid,1
@@ -136,7 +137,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 14213,,Torrelavega,,43.3276776,-4.0426871,,,,,Europe/Madrid,1
 14202,,Reinosa,,42.9944991,-4.1409454,,,,,Europe/Madrid,2
 15203,,Mieres-Puente,,43.2500266,-5.7822622,,,,,Europe/Madrid,2
-11600,,Irun,,43.3395365,-1.8012519,,,,,Europe/Madrid,1
 20005,,Veguellina,,42.4335,-5.88756,,,,,Europe/Madrid,2
 20104,,BraÃ±uelas,,42.632631,-6.201002,,,,,Europe/Madrid,2
 16403,,AvilÃ©s,,43.561339,-5.9228329,,,,,Europe/Madrid,1
